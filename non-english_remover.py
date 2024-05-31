@@ -67,6 +67,7 @@ class FileModifier:
                 imagesDirs = os.path.join(subdir, 'images')
                 if os.path.isdir(imagesDirs):
                     shutil.rmtree(imagesDirs)
+                    print(f'{imagesDirs} was removed with all its content.')
         except OSError as e:
             print(f"Error:{imagesDirs} : {e.strerror}")
 
@@ -76,6 +77,8 @@ class FileModifier:
                 if md_file.endswith('.md'):
                     md_file_path = os.path.join(subdir, md_file)
                     os.remove(md_file_path)
+                    print(f'{md_file_path} was removed.')
 
 
 fileModifier = FileModifier()
+fileModifier.RemoveMarkDownFiles()

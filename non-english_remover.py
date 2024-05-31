@@ -1,5 +1,6 @@
 import os
 import re
+import shutil
 
 class FileModifier:
     def __init__(self):
@@ -60,9 +61,21 @@ class FileModifier:
             file.write(updated_content)
         print(f"Updated references in {md_file_path}: {old_image_name} -> {new_image_name}")
 
-    # Specify the root directory where the script is located
-    root_directory = os.path.dirname(os.path.abspath(__file__))
+    def RemoveImagesDirs(self):
+        try:
+            for subdir in self.subdirs:
+                imagesDirs = os.path.join(subdir, 'images')
+                if os.path.isdir(imagesDirs):
+                    shutil.rmtree(imagesDirs)
+        except OSError as e:
+            print(f"Error:{imagesDirs} : {e.strerror}")
+
+    def RemoveMarkDownFiles(self):
+        for subdir in self.subdirs:
+            for md_file in os.listdir(subdir):
+                if md_file.endswith('.md'):
+                    md_file_path = os.path.join(subdir, md_file)
+                    os.remove(md_file_path)
 
 
 fileModifier = FileModifier()
-fileModifier.rename_images_and_update_references()

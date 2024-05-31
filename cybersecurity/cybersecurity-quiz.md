@@ -830,7 +830,7 @@ What is the next step you should take to best fulfill your responsibilities and 
 
 #### Q107. Which quadrant should be the focus of risk management?
 
-- ![Which quadrant should be the focus of risk management?](Q107-risk-quadrant.jpg)
+- ![Which quadrant should be the focus of risk management?](images/Q107-risk-quadrant.jpg)
 
 - [x] 2
 - [ ] 1

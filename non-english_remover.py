@@ -79,5 +79,27 @@ class FileModifier:
                     os.remove(md_file_path)
                     print(f'{md_file_path} was removed.')
 
+    def InitAsImageDir_VS(self):
+        for sub_content in os.listdir(self.root_dir):
+            sub_content_path = os.path.join(self.root_dir, sub_content)
+            if not os.path.isdir(sub_content_path) and not sub_content.endswith('.py') and not sub_content.endswith('.git') and not sub_content.endswith('LICENSE'):
+                os.remove(sub_content_path)
+        self.RemoveMarkDownFiles()
+
+# Delete file after finishing
+def delete_self():
+    try:
+        # Get the absolute path of the script
+        script_path = os.path.abspath(__file__)
+        # Check if the script is being run as a file
+        if os.path.isfile(script_path):
+            # Delete the script file
+            os.remove(script_path)
+            print("Script deleted successfully.")
+        else:
+            print("Cannot delete script: Not a file.")
+    except Exception as e:
+        print(f"Error deleting script: {e}")
+
 
 fileModifier = FileModifier()

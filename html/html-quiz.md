@@ -81,7 +81,7 @@
 
 #### Q11. What is the best way to code the sample shown?
 
-![Sample text](images/ss-2.png?raw=true)
+![Sample text](images/picture6.png?raw=true)
 
 - [ ] A
 
@@ -262,7 +262,7 @@ On July 21, 1969, Neil Armstrong said, "One small step for man, one giant leap f
 
 #### Q21. Review the text in the red box in the image shown. What is the best way to code this in HTML?
 
-![Image of footer](images/ss-3.png?raw=true)
+![Image of footer](images/picture7.png?raw=true)
 
 - [ ] ordered list
 - [ ] unordered list inside a nav element
@@ -347,7 +347,7 @@ On July 21, 1969, Neil Armstrong said, "One small step for man, one giant leap f
 
 #### Q25. What code will produce this table?
 
-![Table with yellow background](images/ss-4.png?raw=true)
+![Table with yellow background](images/picture8.png?raw=true)
 
 - [ ] A
 
@@ -546,7 +546,7 @@ On July 21, 1969, Neil Armstrong said, "One small step for man, one giant leap f
 
 #### Q34. What is the correctly nested markup for this list?
 
-![Sample list](images/ss-6.png?raw=true)
+![Sample list](images/picture10.png?raw=true)
 
 - [ ] A
 
@@ -613,7 +613,7 @@ On July 21, 1969, Neil Armstrong said, "One small step for man, one giant leap f
 
 #### Q36. What is the semantically correct way to mark up this layout?
 
-![quote](images/ss-5.png?raw=true)
+![quote](images/picture9.png?raw=true)
 
 - [ ] A
 
@@ -725,7 +725,7 @@ On July 21, 1969, Neil Armstrong said, "One small step for man, one giant leap f
 
 #### Q44. Which code snippet creates the layout shown, starting at `<table>` and ending at `</table>`?
 
-![Table](images/ss-1.png?raw=true 'table')
+![Table](images/picture5.png?raw=true 'table')
 
 - [ ] A
 
@@ -1160,7 +1160,7 @@ Use <p> elements, and use CSS properties like margin to control their spacing.
 
 #### Q68. Given the file and directory structure shown here, what is the correct element to place in the file profit.html to link to info.html?
 
-![Image of footer](images/ss-7.png?raw=true)
+![Image of footer](images/picture11.png?raw=true)
 
 - [ ] `<a href="../work/info.html">See Information </a>`
 - [x] `<a href="../info.html">See Information </a>`
@@ -1299,7 +1299,7 @@ As Steve Krug once said, happy talk must die.
 
 #### Q76. Which choice is the best way to mark up this layout?
 
-![Image of footer](images/ss-8.png?raw=true)
+![Image of footer](images/picture12.png?raw=true)
 
 - [x] A
 
@@ -1385,13 +1385,13 @@ As Steve Krug once said, happy talk must die.
 ```
 
 - [ ] A
-      ![A](images/Q84-1.jpg)
+      ![A](images/picture1.jpg)
 - [x] B
-      ![B](images/Q84-2.jpg)
+      ![B](images/picture2.jpg)
 - [ ] C
-      ![C](images/Q84-3.jpg)
+      ![C](images/picture3.jpg)
 - [ ] D
-      ![D](images/Q84-4.jpg)
+      ![D](images/picture4.jpg)
 
 #### Q80. What is the difference between the `<svg>` and `<canvas>`?
 

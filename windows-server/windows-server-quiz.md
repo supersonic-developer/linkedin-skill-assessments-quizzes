@@ -2,7 +2,7 @@
 
 #### Q1. You need to create a file share for your company that must be accessible from all branch offices, and its share path must have the name Work Share. Which server role do you install?
 
-![Windows Server Q01](images/windows-server_Q01.jpg)
+![Windows Server Q01](images/picture1.jpg)
 
 - [x] BranchCache for Network Files
 - [ ] File Server
@@ -55,19 +55,19 @@
 
 - [ ] A
 
-![Windows Server Q10A](images/windows-server_Q10A.jpg)
+![Windows Server Q10A](images/picture2.jpg)
 
 - [ ] B
 
-![Windows Server Q10B](images/windows-server_Q10B.jpg)
+![Windows Server Q10B](images/picture3.jpg)
 
 - [ ] C
 
-![Windows Server Q10C](images/windows-server_Q10C.jpg)
+![Windows Server Q10C](images/picture4.jpg)
 
 - [x] D
 
-![Windows Server Q10D](images/windows-server_Q10D.jpg)
+![Windows Server Q10D](images/picture5.jpg)
 
 #### Q9. You have installed the Remote Desktop Services role. Which remote desktop mode comes with two built-in licenses?
 
@@ -227,7 +227,7 @@
 
 #### Q31. You are preparing a Windows Server 2016 server image for deployment. You want to further customize your server by adding applications and device drivers and to test your computer in a Windows environment. What sysprep.exe parameters would you select when customizing your server image?
 
-![Windows Server Q32](images/windows-server_Q32.jpg)
+![Windows Server Q32](images/picture6.jpg)
 
 - [ ] A
 - [ ] B
@@ -250,7 +250,7 @@
 
 #### Q34. As you create a new share, you are unable to configure the default classification of data on the folder. Why would the New Share Wizard prevent this configuration?
 
-![Windows Server Q35](images/windows-server_Q35.jpg)
+![Windows Server Q35](images/picture7.jpg)
 
 - [ ] The File Resource Manager must be installed.
 - [x] The Distributed File System server must also be installed.
@@ -294,7 +294,7 @@
 
 #### Q40. In the image below, what is being installed on the server?
 
-![Windows Server Q41](images/windows-server_Q41.jpg)
+![Windows Server Q41](images/picture8.jpg)
 
 - [ ] AD CS
 - [ ] AD FS
@@ -468,7 +468,7 @@
 
 #### Q62. In the Server Manager window shown, how can you manage more servers?
 
-![Q62](images/windows-server_Q62.png?raw=png)
+![Q62](images/picture9.png?raw=png)
 
 - [x] Click **Server**, above **Volumes**.
 - [ ] Click **Tools**.

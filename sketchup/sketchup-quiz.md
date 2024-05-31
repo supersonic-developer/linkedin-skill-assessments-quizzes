@@ -469,7 +469,7 @@
 
 #### Q40. How many edges are in this image?
 
-![sketchup image](images/image16.png)
+![sketchup image](images/picture8.png)
 
 - [x] seven
 - [ ] eight
@@ -478,7 +478,7 @@
 
 #### Q41. What action is being demonstrated in this image?
 
-![sketchup image](images/image17.png)
+![sketchup image](images/picture9.png)
 
 - [ ] Offset
 - [ ] Rise
@@ -508,7 +508,7 @@
 
 #### Q45. The cube on the bottom is in one group and the cube on top is in another group.How can you keep them in two separate groups,but have them appear as one when not selected?
 
-![sketchup image](images/image18.png)
+![sketchup image](images/picture10.png)
 
 - [ ] Erase the bottom edges in the top group and the top edges in the bottom group.
 - [ ] Extrude both farther so that the geometry is overlapping.
@@ -524,10 +524,10 @@
 
 #### Q47. which icon represents a tool that will extrude a surface?
 
-- [ ]![sketchup image](images/image8.png)
-- [x]![sketchup image](images/image13.png)
-- [ ]![sketchup image](images/image14.png)
-- [ ]![sketchup image](images/image15.png)
+- [ ]![sketchup image](images/picture17.png)
+- [x]![sketchup image](images/picture5.png)
+- [ ]![sketchup image](images/picture6.png)
+- [ ]![sketchup image](images/picture7.png)
 
 - [ ] Use the "Paint Bucket" tool and paint the entire model.
 - [ ] Create a group or component, and then apply the texture.

@@ -518,7 +518,7 @@ If your Word document contains no Heading 1 or Heading 2 styles, PowerPoint will
 
 #### Q67. The picture on the left is the original image. The image on the right is smaller, but the flowers are the same size and part of the picture has been removed. What method was used to format this picture?
 
-![images](images/Q68.png?raw=png)
+![images](images/picture8.png?raw=png)
 
 - [ ] changing the width and height with aspect ration locked
 - [ ] drapping a corner sizing handle
@@ -593,7 +593,7 @@ If your Word document contains no Heading 1 or Heading 2 styles, PowerPoint will
 
 #### Q76. A few lines of text are overflowing the placeholder on your slide. How can you fix it on your slide?
 
-![Q79](images/Q79.png?raw=png)
+![Q79](images/picture9.png?raw=png)
 
 - [ ] Delete the overflowing text.
 - [ ] Select **Stop Fitting Text to This Placeholder**.
@@ -609,7 +609,7 @@ If your Word document contains no Heading 1 or Heading 2 styles, PowerPoint will
 
 #### Q78. What do the labels Introduction and ProjectsByMonth indicate?
 
-![Q81](images/Q81.png?raw=png)
+![Q81](images/picture10.png?raw=png)
 
 - [x] section names
 - [ ] layouts
@@ -759,7 +759,7 @@ D. Start When Clicked On
 
 #### Q97. Your presentation has a slide on which the text appears scrambled. What happened?
 
-![Q97](images/Q97.jpg)
+![Q97](images/picture11.jpg)
 
 - [ ] The text direction has been changed to Vertical.
 - [ ] The text direction has been changed to Stacked.
@@ -793,7 +793,7 @@ D. Start When Clicked On
 
 #### Q101. The picture on the left is the original image. Which type of picture format has been applied to the picture on the right?
 
-![Q101](images/Q101.png)
+![Q101](images/picture2.png)
 
 - [ ] Picture Styles
 - [x] Artistic Effects
@@ -802,7 +802,7 @@ D. Start When Clicked On
 
 #### Q102. To create a stacked image with the campfire icon on top of the yellow circle, select the campfire icon, then drag it to the center of the yellow circle, What is the next step?
 
-![Q102](images/Q102.png)
+![Q102](images/picture3.png)
 
 - [ ] On the graphics format tab, press Enter (windows) or Return (mac)
 - [ ] on the graphics format tab, click the send backward arrow and select Send to back
@@ -811,7 +811,7 @@ D. Start When Clicked On
 
 #### Q103. In this image, a link to \_ is being added?
 
-![Q103](images/Q103.png)
+![Q103](images/picture4.png)
 
 - [ ] create a new file
 - [ ] a section
@@ -862,7 +862,7 @@ D. Start When Clicked On
 
 #### Q110. You want to create the image on the right from the one on the left - i.e., place the blue star behind both of the others. How can you do this with a single command?
 
-![img](images/Q110.png)
+![img](images/picture5.png)
 
 - [ ] Select the blue star and click Send Backward.
 - [x] Select the blue star and click Send to Back.
@@ -909,7 +909,7 @@ D. Start When Clicked On
 
 #### Q116. Which choice describes the result of importing this Word outline into a presentation?
 
-![img](images/Q116.png)
+![img](images/picture6.png)
 
 - [ ] Two slides will be created from the outline.
 - [x] One slide will be created with seven bullet items.
@@ -918,7 +918,7 @@ D. Start When Clicked On
 
 #### Q117. How do you eliminate the blank columns on the char, as indicated by the arrow in this image?
 
-![img](images/Q117.png)
+![img](images/picture7.png)
 
 - [x] In the Chart in Microsoft PowerPoint window, use the sizing handler in the lower-right corner of the range, dragging it up to cell D4.
 - [ ] In the Chart in Microsoft PowerPoint window, select the range A5:D5 and press Delete.

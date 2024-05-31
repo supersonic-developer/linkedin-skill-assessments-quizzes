@@ -52,8 +52,8 @@ class FileModifier:
         with open(md_file_path, 'r', encoding='utf-8') as file:
             content = file.read()
 
-        updated_content = re.sub(r'(!\[.*?\]\(images/' + re.escape(old_image_name) + r'\))',
-                                r'![\1](images/' + re.escape(new_image_name) + r')',
+        updated_content = re.sub(r'(!\[.*?\]\(images/)'+ old_image_name,
+                                r'\1' + new_image_name,
                                 content)
 
         with open(md_file_path, 'w', encoding='utf-8') as file:
@@ -65,4 +65,4 @@ class FileModifier:
 
 
 fileModifier = FileModifier()
-fileModifier.delete_non_english_files()
+fileModifier.rename_images_and_update_references()

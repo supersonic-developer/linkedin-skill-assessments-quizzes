@@ -2,7 +2,7 @@
 
 #### Q1. What would happen to the fill color of the object shown below if you copied and pasted it into another Illustrator file where the Document Color Mode was set to CMYK?
 
-![What would happen to the fill color of the object shown below if you copied and pasted it into another Illustrator file where the Document Color Mode was set to CMYK?](images/Q1.png)
+![What would happen to the fill color of the object shown below if you copied and pasted it into another Illustrator file where the Document Color Mode was set to CMYK?](images/picture1.png)
 
 - [x] The fill color would be converted to CMYK values
 - [ ] The fill color would be unchanged.
@@ -11,7 +11,7 @@
 
 #### Q2. You want to add some stars to the circular background object in the image below, using a scatter brush. How can you ensure that the stars appear only inside the circle?
 
-![You want to add some stars to the circular background object in the image below, using a scatter brush. How can you ensure that the stars appear only inside the circle?](images/Q2.png)
+![You want to add some stars to the circular background object in the image below, using a scatter brush. How can you ensure that the stars appear only inside the circle?](images/picture2.png)
 
 - [ ] Select the Screen blending mode before you brush.
 - [x] Select the circle and click the Draw Inside button on the toolbar before you brush.
@@ -68,7 +68,7 @@ A red line spirals clockwise in, towards the center. Arrows along the line point
 
 #### Q9. What would you do to the left anchor point to make the object symmetrical?
 
-![What would you do to the left anchor point to make the object symmetrical?](images/Q9.png)
+![What would you do to the left anchor point to make the object symmetrical?](images/picture8.png)
 
 - [ ] Remove it.
 - [ ] Cut the path at the anchor point.
@@ -168,7 +168,7 @@ A red line spirals clockwise in, towards the center. Arrows along the line point
 
 #### Q23. In the image below, you are attempting to use the Join tool to remove the overlapping portions of two paths (highlighted in yellow), but nothing seems to be happening. Why is this?
 
-![In the image below, you are attempting to use the Join tool to remove the overlapping portions of two paths (highlighted in yellow), but nothing seems to be happening. Why is this?](images/Q23.png)
+![In the image below, you are attempting to use the Join tool to remove the overlapping portions of two paths (highlighted in yellow), but nothing seems to be happening. Why is this?](images/picture3.png)
 
 - [ ] The paths do not have a fill attribute.
 - [ ] Only one of the paths is selected, but both need to be selected.
@@ -191,7 +191,7 @@ A red line spirals clockwise in, towards the center. Arrows along the line point
 
 #### Q26. What is the meaning of the three dots on the cloud icon in the image below?
 
-![What is the meaning of the three dots on the cloud icon in the image below?](images/Q26.png)
+![What is the meaning of the three dots on the cloud icon in the image below?](images/picture4.png)
 
 - [ ] The Alana fonts are deactivated.
 - [x] The Alana fonts are for web-only use.
@@ -232,7 +232,7 @@ A yellow rectangle has a circular selection in the center.
 
 #### Q31. When viewing the artwork shown below in Outline mode, what can you tell about the word "backpack"?
 
-![When viewing the artwork shown below in Outline mode, what can you tell about the word "backpack"?](images/Q31.png)
+![When viewing the artwork shown below in Outline mode, what can you tell about the word "backpack"?](images/picture5.png)
 
 - [ ] It has been converted to outlines.
 - [ ] It is live text.
@@ -297,7 +297,7 @@ A yellow rectangle has a circular selection in the center.
 
 #### Q40. You have designed the product label shown below. Your client wants the black circle to print as dark as possible and requires that none of the colorful logo elements show through the circle when the label is printed. What should you do?
 
-![You have designed the product label shown below. Your client wants the black circle to print as dark as possible and requires that none of the colorful logo elements show through the circle when the label is printed. What should you do?](images/Q40.png)
+![You have designed the product label shown below. Your client wants the black circle to print as dark as possible and requires that none of the colorful logo elements show through the circle when the label is printed. What should you do?](images/picture6.png)
 
 - [x] Select the circle and turn on Overprint Fill in the Attributes panel.
 - [ ] Select the circle and apply the Multiply blending mode.
@@ -320,7 +320,7 @@ A yellow rectangle has a circular selection in the center.
 
 #### Q43. In the gift card shown below, the magenta flower petals need to be printed with a varnish. How would you set up the file so the varnish is applied over the magenta color of the petals?
 
-![In the gift card shown below, the magenta flower petals need to be printed with a varnish. How would you set up the file so the varnish is applied over the magenta color of the petals?](images/Q43.png)
+![In the gift card shown below, the magenta flower petals need to be printed with a varnish. How would you set up the file so the varnish is applied over the magenta color of the petals?](images/picture7.png)
 
 - [x] Use File Info to leave instructions for your print service provider.
 - [ ] Duplicate the petals to a new layer called "Varnish."

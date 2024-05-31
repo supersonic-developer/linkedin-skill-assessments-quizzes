@@ -137,7 +137,7 @@
 
 #### Q12. To which internal component does the illustrated (P1) connector attach?
 
-![Q12](images/Q12.jpg)
+![Q12](images/picture1.jpg)
 
 - [x] motherboard
 - [ ] I/O panel

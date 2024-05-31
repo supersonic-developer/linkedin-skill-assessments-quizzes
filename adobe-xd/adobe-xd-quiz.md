@@ -2,7 +2,7 @@
 
 #### Q1. Where was this `Lock` icon applied?
 
-![Q1](images/001.jpg)
+![Q1](images/picture1.jpg)
 
 - [ ] in the `Components` panel
 - [x] in the `Layers` panel
@@ -11,7 +11,7 @@
 
 #### Q2. In this figure, which value represents the bottom margin of the layout grid?
 
-![Q2](images/002.jpg)
+![Q2](images/picture2.jpg)
 
 - [ ] 30
 - [x] 20
@@ -20,7 +20,7 @@
 
 #### Q3. What does clicking the circled icon enable you to do?
 
-![Q3](images/003.jpg)
+![Q3](images/picture3.jpg)
 
 - [ ] Change the trigger.
 - [ ] Choose a destination.
@@ -92,7 +92,7 @@
 
 #### Q13. What does this wire attached to a component indicate?
 
-![Q13](images/004.jpg)
+![Q13](images/picture4.jpg)
 
 - [ ] destination.
 - [x] interaction.
@@ -101,7 +101,7 @@
 
 #### Q14. What happens when you click this circled icon in the design preview?
 
-![Q14](images/005.jpg)
+![Q14](images/picture5.jpg)
 
 - [x] The preview switches to the artboard view.
 - [ ] The preview switches to user flow.
@@ -131,7 +131,7 @@
 
 #### Q18. What would changing the text in this component affect?
 
-![Q13](images/006.png?raw=png)
+![Q13](images/picture6.png?raw=png)
 
 - [ ] the component.
 - [ ] only the text in the symbol.

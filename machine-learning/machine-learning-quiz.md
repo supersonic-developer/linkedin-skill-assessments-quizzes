@@ -67,7 +67,7 @@
 
 #### Q10. What does this image illustrate?
 
-![Machine Learning Q10](images/machine-learning_Q10.jpg)
+![Machine Learning Q10](images/picture1.jpg)
 
 - [x] a decision tree
 - [ ] reinforcement learning
@@ -97,7 +97,7 @@
 
 #### Q14. You work for an ice cream shop and created the chart below, which shows the relationship between the outside temperature and ice cream sales. What is the best description of this chart?
 
-![Machine Learning Q14](images/machine-learning_Q14.jpg)
+![Machine Learning Q14](images/picture2.jpg)
 
 - [x] It is a linear regression chart.
 - [ ] It is a supervised trendline chart.
@@ -127,7 +127,7 @@
 
 #### Q18. What is the missing information in this diagram?
 
-![Machine Learning Q18](images/machine-learning_Q18.jpg)
+![Machine Learning Q18](images/picture3.jpg)
 
 - [ ] Training Set
 - [ ] Unsupervised Data
@@ -189,7 +189,7 @@
 
 #### Q26. What is this diagram a good example of?
 
-![Machine Learning Q26](images/machine-learning_Q26.jpg)
+![Machine Learning Q26](images/picture4.jpg)
 
 - [ ] K-nearest neighbor
 - [ ] a decision tree
@@ -349,7 +349,7 @@ Note: there are centres of clusters (C0, C1, C2).
 
 #### Q47. What is this diagram a good example of?
 
-![Machine Learning Q45](images/machine-learning_Q45.jpg)
+![Machine Learning Q45](images/picture5.jpg)
 
 - [ ] unsupervised learning
 - [ ] complex cluster
@@ -451,7 +451,7 @@ Note: there are centres of clusters (C0, C1, C2).
 
 #### Q61. How would you describe this type of classification challenge?
 
-![Machine Learning Q58](images/machine-learning_Q58.jpg)
+![Machine Learning Q58](images/picture6.jpg)
 
 - [x] This is a multiclass classification challenge.
 - [ ] This is a multi-binary classification challenge.
@@ -502,7 +502,7 @@ Note: there are centres of clusters (C0, C1, C2).
 - [ ] 12%
 - [ ] 0.0008%
 
-![image](images/machine-learning_Q62.png?raw=png)
+![image](images/picture7.png?raw=png)
 
 #### Q67. The new dataset you have just scraped seems to exhibit lots of missing values. What action will help you minimizing that problem?
 
@@ -534,7 +534,7 @@ Note: there are centres of clusters (C0, C1, C2).
 
 #### Q71. What is the correct option?
 
-![image](images/machine-learning_Q67.png?raw=png)
+![image](images/picture8.png?raw=png)
 
 | no.    | Red              | Blue             | Green            |
 | ------ | ---------------- | ---------------- | ---------------- |
@@ -566,7 +566,7 @@ Note: there are centres of clusters (C0, C1, C2).
 
 #### Q74. The fit line and data in the figure exhibits which pattern?
 
-![image](images/machine-learning_Q70.png?raw=png)
+![image](images/picture9.png?raw=png)
 
 - [ ] low bias, high variance
 - [ ] high bias, low variance

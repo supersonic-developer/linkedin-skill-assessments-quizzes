@@ -20,7 +20,7 @@
 
 #### Q3. In the image shown, what do you know about the Body Text paragraph style?
 
-![Q3](images/question_3.jpg)
+![Q3](images/picture5.jpg)
 
 - [x] The selected text was not formatted using the style definition.
 - [ ] The selected text is in overset text outside the boundaries of the current frame.
@@ -73,7 +73,7 @@
 
 #### Q10. In the image shown, the text is on a path. You want to move the text farther to the right along the path. How can you accomplish this?
 
-![Q10](images/question_10.png)
+![Q10](images/picture1.png)
 
 - [ ] Drag the blue square D.
 - [ ] Drag the side handle B
@@ -110,7 +110,7 @@
 
 #### Q15. Which feature would you use to create the effect shown, where the grouped circles blend but not the object behind them?
 
-![Q15](images/question_15.png)
+![Q15](images/picture2.png)
 
 - [ ] Global Light
 - [ ] the Screen blending mode
@@ -119,7 +119,7 @@
 
 #### Q16. In the image shown, what do the colored frame edges indicate?
 
-![Q16](images/question_16.png)
+![Q16](images/picture3.png)
 
 - [ ] which layer each object is on
 - [x] which master page each object is on
@@ -135,7 +135,7 @@
 
 #### Q18. In the image shown, what can you infer about how this document will print?
 
-![Q18](images/question_18.png)
+![Q18](images/picture4.png)
 
 - [ ] The page will be scaled to fit the paper.
 - [x] All document layers will be visible
@@ -356,7 +356,7 @@ E. If the image is in RGB mode, the text color is also set to RGB mode.
 
 #### 47. This text frame is filled with Paper and there are only two frames (the text frame and the image behind it). How would you achieve this effect, where you can see through the frame but not the text?
 
-![Alt text](images/question_47.png)
+![Alt text](images/picture6.png)
 
 - [ ] Create a new color swatch in the Swatches panel based on Paper, and lower its opacity value.
 - [ ] In the Effects panel, select Ghost Back from the FX menu.
@@ -395,7 +395,7 @@ E. If the image is in RGB mode, the text color is also set to RGB mode.
 
 #### 52. Given the document shown, what feature do you need to choose in the Print dialog box to print correctly?
 
-![Alt text](images/question_52.png)
+![Alt text](images/picture7.png)
 
 - [x] Text as Black
 - [ ] Print Visible and Printable Layers
@@ -404,7 +404,7 @@ E. If the image is in RGB mode, the text color is also set to RGB mode.
 
 #### 53. You have designed a 32-page magazine and you want to export it as a PDF to send to a printer. Which option in this Export AdobePDF dialog is probably set incorrectly?
 
-![Alt text](images/question_53.png)
+![Alt text](images/picture8.png)
 
 - [ ] Create Acrobat Layers
 - [ ] Pages
@@ -420,7 +420,7 @@ E. If the image is in RGB mode, the text color is also set to RGB mode.
 
 #### 55. What can you infer about the LightGreen color?
 
-![Alt text](images/question_55.png)
+![Alt text](images/picture9.png)
 
 - [x] The color swatch is a spot color.
 - [ ] The color is too light to print.
@@ -429,7 +429,7 @@ E. If the image is in RGB mode, the text color is also set to RGB mode.
 
 #### 56. The frame on the left is being moved. What does the green arrow indicate?
 
-![Alt text](images/question_56.png)
+![Alt text](images/picture10.png)
 
 - [ ] The space between the two frames matches the grid spacing preference.
 - [ ] The space between the two frames is below the spacing limit set in Preferences.
@@ -489,7 +489,7 @@ E. If the image is in RGB mode, the text color is also set to RGB mode.
 
 #### 64. what does the circled i icon indicate?
 
-![Alt text](images/question_64.png)
+![Alt text](images/picture11.png)
 
 - [ ] The field is blank and needs text.
 - [ ] The field contains nonvisible characters.

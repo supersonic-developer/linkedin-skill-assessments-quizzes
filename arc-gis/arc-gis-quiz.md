@@ -45,7 +45,7 @@
 
 #### Q6. Which Layer in this map is currently not visible in the data frame?
 
-![Which Layer in this map is currently not visible in the data frame?](images/Q6.png)
+![Which Layer in this map is currently not visible in the data frame?](images/picture2.png)
 
 - [ ] Trees
 - [ ] Building_Footprints
@@ -96,7 +96,7 @@
 
 #### Q13. What geoprocessing tool, when applied to the Point Data Layer, is most likely responsible for the data shown in the Result Layer?
 
-![What geoprocessing tool, when applied to the Point Data Layer, is most likely responsible for the data shown in the Result Layer?](images/Q13.png)
+![What geoprocessing tool, when applied to the Point Data Layer, is most likely responsible for the data shown in the Result Layer?](images/picture1.png)
 
 - [ ] Dissolve
 - [x] Buffer

@@ -719,12 +719,12 @@ SELECT * FROM MyNumbers;
 - [ ] A
 - [ ] B
 - [x] C
-      ![Image of footer](images/picture4.png?raw=png)
+      ![Image of footer](images/picture3.png)
 - [ ] D
 
 #### Q57. Given the table below , which query shows How many students are in each department ?
 
-![T-SQL-Q55](images/picture3.jpg)
+![T-SQL-Q55](images/picture4.jpg)
 
 - [x] Select Department, COUNT(\*) FROM Students GROUP BY Department;
 - [ ] SELECT COUNT(\*) FROM Students;

@@ -264,7 +264,7 @@ Notice: AndroidJUnitRunner lets us run JUnit3/4-style tests on Android Devices
 
 #### Q21. Which drawable definition allows you to achieve the shape below?
 
-![img](image/shape.png?raw=png)
+![img](images/picture1.png)
 
 - [ ] A
 
@@ -379,13 +379,13 @@ Notice: AndroidJUnitRunner lets us run JUnit3/4-style tests on Android Devices
 ```
 
 - [ ] A
-      ![img](image/00.jpeg)
+      ![img](images/picture2.jpeg)
 - [x] B
-      ![img](image/01.jpeg)
+      ![img](images/picture3.jpeg)
 - [ ] C
-      ![img](image/02.jpeg)
+      ![img](images/picture4.jpeg)
 - [ ] D
-      ![img](image/03.jpeg)
+      ![img](images/picture5.jpeg)
 
 #### Q29. You want to open the default Dialer app on a device. What is wrong with this code?
 
@@ -497,7 +497,7 @@ buildTypes {
 
 #### Q36. Which code snippet would achieve the layout displayed below?
 
-![img](image/04.jpeg)
+![img](images/picture6.jpeg)
 
 - [ ] A
 
@@ -682,7 +682,7 @@ buildTypes {
 
 #### Q45. Which drawable definition allows you to achieve the shape below?
 
-![img](image/43.jpeg)
+![img](images/picture7.jpeg)
 
 - [ ] A
 
@@ -733,7 +733,7 @@ buildTypes {
 
 #### Q46. Given the ConstraintLayout below, which statement is true?
 
-![img](image/44.jpeg)
+![img](images/picture8.jpeg)
 
 - [ ] View B is not horizontally constrained.
 - [ ] View C has too many constraints.
@@ -931,16 +931,16 @@ override fun onCreate(savedInstanceState: Bundle?) { super.onCreate(savedInstanc
 #### Q61. Which layout hierarchy is likely to be drawn the most quickly?
 
 - [x] A
-      ![img](https://i.imgur.com/mT08jag.png?raw=png)
+      ![img](images/picture9.jpg)
 
 - [ ] B
-      ![img](https://i.imgur.com/rz9eKYc.png?raw=png)
+      ![img](images/picture10.png)
 
 - [ ] C
-      ![img](https://i.imgur.com/ETaHhaS.png?raw=png)
+      ![img](images/picture11.png)
 
 - [ ] D
-      ![img](https://i.imgur.com/1QBrTwR.png?raw=png)
+      ![img](images/picture12.png)
 
 #### Q62. What is the current recommended way to handle long-running background tasks?
 
@@ -1176,7 +1176,7 @@ val string: String = getString(
 
 #### Q74. In your app, you have a RecyclerView of items. You want to have a different configuration for portrait and landscape modes. which code snippet would allow you to best support the layout below?
 
-![img](image/Q75.png)
+![img](images/picture13.png)
 
 - [ ] A
 

@@ -89,7 +89,7 @@
 
 #### Q12. Which area is DMZ?
 
-![image](https://user-images.githubusercontent.com/50566479/136518616-8712a45f-8ba5-48bd-ac60-5a96ddf754ae.png?raw=png)
+![image](images/picture1.png)
 
 - [ ] 4
 - [ ] 1
@@ -830,7 +830,7 @@ What is the next step you should take to best fulfill your responsibilities and 
 
 #### Q107. Which quadrant should be the focus of risk management?
 
-- ![Which quadrant should be the focus of risk management?](Q107-risk-quadrant.jpg)
+- ![Which quadrant should be the focus of risk management?](images/picture2.jpg)
 
 - [x] 2
 - [ ] 1

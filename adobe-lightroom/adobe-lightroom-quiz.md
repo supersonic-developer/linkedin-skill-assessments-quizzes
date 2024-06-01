@@ -25,7 +25,7 @@ Note: I just use synchronization. After digging into settings I was able only to
 
 #### Q4. Review the image shown. What does the exclamation point adjacent to the thumbnail imply?
 
-![Review the image shown. What does the exclamation point adjacent to the thumbnail imply?](images/picture7.png?raw=true)
+![Review the image shown. What does the exclamation point adjacent to the thumbnail imply?](images/picture1.png)
 
 - [ ] The image has been edited in Photoshop.
 - [ ] The photo is marked as picked.
@@ -43,7 +43,7 @@ Note: I just use synchronization. After digging into settings I was able only to
 
 #### Q6. Review the image below. Which option lets you manually straighten a photo by drawing a vertical or horizontal line?
 
-![Review the image below. Which option lets you manually straighten a photo by drawing a vertical or horizontal line?](images/picture8.png?raw=true)
+![Review the image below. Which option lets you manually straighten a photo by drawing a vertical or horizontal line?](images/picture2.png)
 
 - [ ] A
 - [x] B
@@ -82,7 +82,7 @@ Note: I just use synchronization. After digging into settings I was able only to
 
 #### Q11. In the image shown, what do the blue areas indicate?
 
-![In the image shown, what do the blue areas indicate?](images/picture1.png?raw=png)
+![In the image shown, what do the blue areas indicate?](images/picture3.png)
 
 - [x] crushed details in the shadows
 - [ ] a special effect applied to the image
@@ -121,7 +121,7 @@ Note: I just use synchronization. After digging into settings I was able only to
 
 #### Q16. In the image shown, what is the icon circled in yellow?
 
-![Image with a yellow circle](images/picture2.png?raw=true)
+![Image with a yellow circle](images/picture4.png)
 
 - [ ] Virtual copy
 - [ ] Synced with Lightroom
@@ -238,7 +238,7 @@ Note: I just use synchronization. After digging into settings I was able only to
 
 #### Q29. What do you call information saved with an image file, such as the date of capture and type of camera?
 
-![What do you call information saved with an image file, such as the date of capture and type of camera?](images/picture3.png)
+![What do you call information saved with an image file, such as the date of capture and type of camera?](images/picture5.png)
 
 - [ ] Level
 - [ ] Auto
@@ -254,7 +254,7 @@ Note: I just use synchronization. After digging into settings I was able only to
 
 #### Q31. Suppose, as shown here, that you see no folders in the Folders list despite knowing some have been imported. How can you fix this?
 
-![Suppose, as shown here, that you see no folders in the Folders list despite knowing some have been imported. How can you fix this?](images/picture4.png)
+![Suppose, as shown here, that you see no folders in the Folders list despite knowing some have been imported. How can you fix this?](images/picture6.png)
 
 - [ ] Double-click the disclosure triangle next to a drive's name.
 - [ ] Double-click the disclosure triangle next to the Folder label.
@@ -263,7 +263,7 @@ Note: I just use synchronization. After digging into settings I was able only to
 
 #### Q32. In this image, the Adjustment brush is having an unwanted effect on some areas. What is the best way to clean this up?
 
-![In this image, the Adjustment brush is having an unwanted effect on some areas. What is the best way to clean this up?](images/picture5.png)
+![In this image, the Adjustment brush is having an unwanted effect on some areas. What is the best way to clean this up?](images/picture7.png)
 
 - [ ] Hold down the Shift key to paint over the unwanted areas.
 - [x] Hold down the Option (Alt) key to paint over the unwanted areas.
@@ -286,7 +286,7 @@ Note: I just use synchronization. After digging into settings I was able only to
 
 #### Q35. Which color label set is in use?
 
-![Which color label set is in use?](images/picture6.png)
+![Which color label set is in use?](images/picture8.png)
 
 - [ ] a custom set
 - [x] Lightroom Default

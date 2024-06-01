@@ -522,7 +522,7 @@ A pie chart only reads a single data series from a data source and ignores all o
 
 #### Q65. In the image below, where do you click to hide comments when a document prints?
 
-![image](https://i.imgur.com/JjdzceL.png?raw=png)
+![image](images/picture5.png)
 
 - [ ] A
 - [x] B

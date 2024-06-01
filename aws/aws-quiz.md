@@ -445,7 +445,7 @@ aws ec2 associate-address --instance-id i-8b953 --allocation-id eipalloc-02d021a
 
 #### Q55. the outbound rules of a security group only allow traffic going to 0.0.0.0/0 on TCP Port 22 (SSH) and TCP port 3306 (MySQL). Review the inbound rules listed in the image below. What is the most important issue to fix with this security group configuration, for an Ubuntu EC2 instance acting as a web server?
 
-![image](https://user-images.githubusercontent.com/8637045/112515574-c077e780-8d6c-11eb-96a6-11f27a0547cf.png?raw=png)
+![image](images/picture6.png)
 
 - [ ] The outbound rules block UDP port 53, so the server will not be able to resolve any DNS lookups.
 - [x] The outbound rules do not allow for HTTP traffic to leave the instance, so inbound HTTP requests will fail because the clients will never get HTTP responses.
@@ -540,7 +540,7 @@ aws ec2 start-instances --instance-ids i-0b263919b6498b123
 
 #### Q65. What is wrong with the third incoming security group rule, which allows all traffic from sg-269afc5e to go to an Ubuntu EC2 instance configured as a web server?
 
-![065](https://user-images.githubusercontent.com/33999631/179728393-8a2636ea-04e7-4597-b0cc-8150e2bc91de.png?raw=png)
+![065](images/picture7.png)
 
 - [ ] All traffic on all ports is being denied into this instance, which overwrites the HTTP rule and makes it redundant.
 - [ ] The instance was launched with the default security group, but there is no way for an administrator to SSH into the instance.

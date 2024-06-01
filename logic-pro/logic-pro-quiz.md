@@ -63,7 +63,7 @@ Source: This is in practice mode
 
 #### Q8. What does this image show?
 
-![img](./img/1.jpg)
+![img](images/1.jpg)
 
 - [ ] Drummer track
 - [x] External MIDI track
@@ -88,7 +88,7 @@ Source: This is in practice mode
 
 #### Q11. Is this image, what order dows the signal flow through the plug-ins?
 
-![img](./img/2.jpg)
+![img](images/2.jpg)
 
 - [ ] first the reverb, then the auxiliary
 - [x] first the compressor, then the EQ
@@ -133,7 +133,7 @@ Source: This is in practice mode
 
 #### Q16. What dows this image show?
 
-![img](./img/3.jpg)
+![img](images/3.jpg)
 
 - [x] low-end booster
 - [ ] audio track

@@ -125,7 +125,7 @@
 
 #### Q16. The image below shows the Label and Auto-Text function in LayOut. This data is added when the component is created. How can you edit the data after it is created?
 
-![image](https://github.com/Saharshjain78/linkedin-skill-assessments-quizzes/assets/117359137/c2415d56-dd56-4782-8dc3-687e5ba118a4)
+![image](images/picture1.png)
 
 - [x] 1.In SketchUp, open the Components window.
 
@@ -177,7 +177,7 @@
 
 #### Q21. What does the dash blue line in this image represent?
 
-![image](https://github.com/Saharshjain78/linkedin-skill-assessments-quizzes/assets/117359137/c2061c2d-8cdb-498b-8891-b702de02bdc1)
+![image](images/picture12.png)
 
 - [ ] The unbidden edge
 - [ ] The inference edge
@@ -235,7 +235,7 @@
 
 #### Q29. The drawing on the left has a hidden line style selected, but some of the information seems lost. The drawing on the right has the samestyle, but seems to be showing all geometry. What setting was changed to fix this?
 
-![image](https://github.com/Saharshjain78/linkedin-skill-assessments-quizzes/assets/117359137/a4e03ce1-e6e6-46e5-81e1-e5960dccb3d8)
+![image](images/picture11.png)
 
 - [x] In the Styles window, select the Edit tab, click the Edges icon, and select the Back Edges option.
 - [ ] In the Styles window, select the Edit tab, click the Edges icon, and select the Depth Cue option.
@@ -251,7 +251,7 @@
 
 #### Q31. You are trying to cut an opening in a countertop that is the same shape as an oval sink, so that the sink bowl is visible.Whichfunction would create this?
 
-![image](https://github.com/Saharshjain78/linkedin-skill-assessments-quizzes/assets/117359137/7b9f1c2b-473a-4db5-a863-52e07f92ec53)
+![image](images/picture14.png)
 
 - [x] Intersect Faces with Model
 - [ ] Circle tool and Push/Pull
@@ -265,13 +265,13 @@
 - [ ] a program that comes with SketchUp Pro for added functionality
 - [ ] a rectangle that is offset outward of its original shape
       Q33. Which Styles window settings icon would you select to change the color of the ground in your model?
-- [ ] A ![image](https://github.com/Saharshjain78/linkedin-skill-assessments-quizzes/assets/117359137/f76a6fc3-3f8c-4b51-b055-2f0fa5b25478)
+- [ ] A ![image](images/picture13.png)
 
-- [ ] B ![image](https://github.com/Saharshjain78/linkedin-skill-assessments-quizzes/assets/117359137/03cb94d2-498e-4876-8e1b-41022f3c7077)
+- [ ] B ![image](images/picture16.png)
 
-- [x] C ![image](https://github.com/Saharshjain78/linkedin-skill-assessments-quizzes/assets/117359137/df8d7636-9b3d-4e58-9db1-29c5d68b6c65)
+- [x] C ![image](images/picture15.png)
 
-- [ ] D ![image](https://github.com/Saharshjain78/linkedin-skill-assessments-quizzes/assets/117359137/2afc4af3-12ef-4c20-ad32-4d5a0c319e23)
+- [ ] D ![image](images/picture18.png)
 
 #### Q34. While working on a kitchen model, you try using the Move tool to move a cabinet but accidentally click the stove and begin to moveit. What should you do?
 
@@ -282,13 +282,13 @@
 
 #### Q35. which of these icons is the Arc tool?
 
-- [ ] A ![image](https://github.com/Saharshjain78/linkedin-skill-assessments-quizzes/assets/117359137/defe8f55-f3e4-4709-bd79-b1ca88e57b73)
+- [ ] A ![image](images/picture17.png)
 
-- [x] B ![image](https://github.com/Saharshjain78/linkedin-skill-assessments-quizzes/assets/117359137/9100dad5-4bd6-471f-bdf7-5f7b630f06f3)
+- [x] B ![image](images/picture4.png)
 
-- [ ] C ![image](https://github.com/Saharshjain78/linkedin-skill-assessments-quizzes/assets/117359137/9cc03b8b-5694-428f-82c7-03ceb23a8257)
+- [ ] C ![image](images/picture2.png)
 
-- [ ] D ![image](https://github.com/Saharshjain78/linkedin-skill-assessments-quizzes/assets/117359137/3251b36f-3856-4f8b-a980-60781d041a9f)
+- [ ] D ![image](images/picture3.png)
 
 #### Q36. How do you add to a selection?
 
@@ -299,13 +299,13 @@
 
 #### Q37. which icon represents a tool that will extrude a surface?
 
-- [ ] A ![image](https://github.com/Saharshjain78/linkedin-skill-assessments-quizzes/assets/117359137/1bb56a9d-ac74-4bd4-84a3-ec7eeedb03c1)
+- [ ] A ![image](images/picture17.png)
 
-- [x] B ![image](https://github.com/Saharshjain78/linkedin-skill-assessments-quizzes/assets/117359137/60c25e24-b1c0-44d8-aee7-07f49dc8f9b4)
+- [x] B ![image](images/picture5.png)
 
-- [ ] C ![image](https://github.com/Saharshjain78/linkedin-skill-assessments-quizzes/assets/117359137/c447190c-33aa-44ce-8fe9-27105aa6ffa8)
+- [ ] C ![image](images/picture6.png)
 
-- [ ] D ![image](https://github.com/Saharshjain78/linkedin-skill-assessments-quizzes/assets/117359137/91c314d5-145a-4672-8e7d-c1f2d576c304)
+- [ ] D ![image](images/picture7.png)
 
 #### Q38. what is the purpose of the 2D people included in some sketchUp templates?
 
@@ -330,7 +330,7 @@
 
 #### Q41. How many edges are in this image?
 
-![image](https://github.com/Saharshjain78/linkedin-skill-assessments-quizzes/assets/117359137/7767d6ec-e079-470f-b9ce-ac96bf3c8a3c)
+![image](images/picture8.png)
 
 - [x] seven
 - [ ] eight
@@ -339,7 +339,7 @@
 
 #### Q42. What action is being demonstrated in this image?
 
-![image](https://github.com/Saharshjain78/linkedin-skill-assessments-quizzes/assets/117359137/98cc0ecb-f261-49fb-8f8f-8827f2ccfccc)
+![image](images/picture9.png)
 
 - [ ] Offset
 - [ ] Rise
@@ -369,7 +369,7 @@
 
 #### Q46. The cube on the bottom is in one group and the cube on top is in another group.How can you keep them in two separate groups,but have them appear as one when not selected?
 
-![image](https://github.com/Saharshjain78/linkedin-skill-assessments-quizzes/assets/117359137/b2b8bafb-6e42-4115-ab8b-f87853ed95f4)
+![image](images/picture10.png)
 
 - [ ] Erase the bottom edges in the top group and the top edges in the bottom group.
 - [ ] Extrude both farther so that the geometry is overlapping.

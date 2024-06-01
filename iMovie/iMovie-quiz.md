@@ -51,7 +51,7 @@
 
 #### Q8. In the image below, the mouse arrow is positioned over a filmstrip icon in the timeline. What happens when you release the mouse button?
 
-![Image Q8](https://raw.githubusercontent.com/Ebazhanov/linkedin-skill-assessments-quizzes/main/iMovie/img/iMovie-Q8.png)
+![Image Q8](images/iMovie-Q8.png)
 
 - [ ] The clip replaces the one in the timeline.
 - [x] The clip is added to the timeline.
@@ -95,7 +95,7 @@
 
 #### Q14. Where can you click to adjust the display to show more clips in the browser?
 
-![Image Q14](https://raw.githubusercontent.com/Ebazhanov/linkedin-skill-assessments-quizzes/main/iMovie/img/iMovie-Q14.png)
+![Image Q14](images/iMovie-Q14.png)
 
 - [ ] A
 - [x] B
@@ -118,7 +118,7 @@
 
 #### Q17. In the image below, what does the green bar across the top of the clip indicate?
 
-![Image Q17](https://raw.githubusercontent.com/Ebazhanov/linkedin-skill-assessments-quizzes/main/iMovie/img/iMovie-Q17.png)
+![Image Q17](images/iMovie-Q17.png)
 
 - [ ] The project is rendering.
 - [ ] The clip is already in use in the project.
@@ -127,7 +127,7 @@
 
 #### Q18. In the image below, what do the red bars indicate?
 
-![Image Q18](https://raw.githubusercontent.com/Ebazhanov/linkedin-skill-assessments-quizzes/main/iMovie/img/iMovie-Q18.png)
+![Image Q18](images/iMovie-Q18.png)
 
 - [ ] The clips have a favorite area marked.
 - [ ] The clips have been used in the project twice.
@@ -138,7 +138,7 @@
 
 #### Q19. You see no templates in the titles browser, as shown below. How can you fix this?
 
-![Image Q19](https://raw.githubusercontent.com/Ebazhanov/linkedin-skill-assessments-quizzes/main/iMovie/img/iMovie-Q19.png)
+![Image Q19](images/iMovie-Q19.png)
 
 - [x] Click the X in the search box to reset the filter controls.
 - [ ] Close and reopen the tab.
@@ -147,7 +147,7 @@
 
 #### Q20. In the image below, which filtering method is applied to the browser?
 
-![Image Q20](https://raw.githubusercontent.com/Ebazhanov/linkedin-skill-assessments-quizzes/main/iMovie/img/iMovie-Q20.png)
+![Image Q20](images/iMovie-Q20.png)
 
 - [x] Favorites
 - [ ] Hide Rejected
@@ -307,7 +307,7 @@
 
 #### Q42. While browsing sound effects, you see fewer options than expected. In the image below, where do you click to reset your search?
 
-![Image Q42](img/iMovie-Q42.png)
+![Image Q42](images/iMovie-Q42.png)
 
 - [ ] C
 - [ ] A

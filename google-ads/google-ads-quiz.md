@@ -304,7 +304,7 @@
 - [x] $40
 - [ ] $36
 
-![Google wiki](https://support.google.com/google-ads/answer/10486637?hl=en)
+[Reference](https://support.google.com/google-ads/answer/10486637?hl=en)
 
 #### Q43. Ursula owns a yoga studio in New York City (NYC). A customer performs several searches in the following order: "yoga studio near me", "best yoga NYC", "yoga free trial NYC". What attribution model would assign 100% of the credit for the conversion to \_ yoga free trial NYC \_?
 

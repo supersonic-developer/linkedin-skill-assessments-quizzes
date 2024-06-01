@@ -34,7 +34,7 @@
 
 #### Q5. What are the icons highlighted below used for?
 
-![Google Analytics Icons](https://i.imgur.com/LZzFesL.png?raw=png)
+![Google Analytics Icons](images/picture2.png)
 
 - [x] to change the way the data table is displayed
 - [ ] to adjust the date range
@@ -208,7 +208,7 @@
 
 #### Q29. What is this report an example of?
 
-![Tree map](https://i.imgur.com/CJFjxxD.png?raw=png)
+![Tree map](images/picture1.png)
 
 - [ ] Cohort analysis
 - [ ] Funnel visualization
@@ -576,7 +576,7 @@
 
 #### Q81. How would you access to this report?
 
-![checkout](https://i.imgur.com/8xDRzAI.jpeg)
+![checkout](images/picture3.jpeg)
 
 - [ ] Ecommerce > Sales Performance
 - [ ] Goals > Goal Flow

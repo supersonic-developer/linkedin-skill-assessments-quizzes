@@ -45,7 +45,7 @@ xvect
 
 #### Q6. In the image below, the data frame is named rates. The statement `sd(rates[, 2])` returns 39. As what does R regard Ellen's product ratings?
 
-![Image](https://i.ibb.co/jvPPSRk/Captura-de-pantalla-2020-07-14-a-las-20-58-09.png?raw=png)
+![Image](images/picture1.png)
 
 - [ ] sample with replacement
 - [ ] population
@@ -75,7 +75,7 @@ xvect
 
 #### Q10. In the image below, the data frame on lines 1 through 4 is named StDf. State and Capital are both factors. Which statement returns the results shown on lines 6 and 7?
 
-![Image](https://i.ibb.co/8DL1HCV/Captura-de-pantalla-2020-07-14-a-las-18-33-34.png?raw=png)
+![Image](images/picture2.png)
 
 - [ ] StDf[1:2,-3]
 - [x] StDf[1:2,1]
@@ -279,7 +279,7 @@ Output: [1] 2 3 4
 
 #### Q29. Given DFMerged <- merge(DF1, DF2) and the image below, how many rows are in DFMerged?
 
-![image](https://user-images.githubusercontent.com/52632898/139964478-9806a163-76b2-4f99-97bc-c925fdf6e388.png?raw=png)
+![image](images/picture3.png)
 
 - [ ] 6
 - [ ] 9
@@ -662,7 +662,7 @@ Results: [1] "GHW BUsh" "Clinton" "Obama"
 
 #### Q61. In this image below, the data frame on lines 1 through 4 is named StDf. StDf contains no factors. Why does statement on line 6 return "character" while the statement on line 7 returns "data.frame"?
 
-![image](https://drive.google.com/uc?export=view&id=16KtAh4dhn2fyImFbcX8KLDgRqNHIFtKm)
+![image](images/picture5.png)
 
 - [ ] Each value in the first row is a character value, but the values in the third column include both character and numeric values.
 - [ ] By specifying the final row, 3, and no column specified, StDf[3, ] calls for the complete structure.
@@ -677,7 +677,7 @@ mtrx <- matrix(1:6, 3, 2)
 mtrx[, -1]
 ```
 
-![image](https://drive.google.com/uc?export=view&id=1ntrHVnNfCRvXfKjbpavh7CiIsv7izsJr)
+![image](images/picture6.png)
 
 - [ ] &shy;
 
@@ -703,7 +703,7 @@ mtrx[, -1]
 
 #### Q65. In the image below, the data frame named iris includes a numeric vector named Petal.Length. Do the functions labeled Pair 1 and Pair 2 return the same information?
 
-![image](https://github.com/ManchurianMan/images/blob/main/petals.png?raw=true)
+![image](images/picture4.png)
 
 - [x] No, both the length and the class of the returned structures are different.
 - [ ] Yes, both pairs of statements return an object with the same length and class.

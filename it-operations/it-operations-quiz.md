@@ -232,7 +232,7 @@
 
 #### Q25. Which type of power connector is this?
 
-![Q24](images/Q24.png?raw=png)
+![Q24](images/picture2.PNG?raw=png)
 
 - [ ] Edison
 - [x] Molex

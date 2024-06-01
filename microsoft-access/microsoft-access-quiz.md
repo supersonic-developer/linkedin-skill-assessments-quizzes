@@ -26,7 +26,7 @@
 
 #### Q4. The relationship field in this table has been created with what feature?
 
-<p align="center"><img src="./images/question_4.png"></p>
+![image](images/picture1.png)
 
 - [x] lookup
 - [ ] reference integrity
@@ -386,7 +386,7 @@ SELECT first_name FROM table_name WHERE first_name Like "D*"; -- Debra, Donna, D
 
 #### Q42. Which single-line query criteria would _not_ be equivalent to the multilinied one pictured?
 
-![img](https://drive.google.com/uc?export=view&id=1jbRn8vijxlaozB52Mtjoivamt-9S4NTs)
+![img](images/picture2.png)
 
 - [x] `Or ("Houston","Boston","Chicago")`
 - [ ] `In ("Houston","Boston","Chicago")`

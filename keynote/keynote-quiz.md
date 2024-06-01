@@ -2,7 +2,7 @@
 
 #### Q1. What type of line connects the two shapes shown below?
 
-![Two shapes connected with lines](images/picture1.png)
+![Two shapes connected with lines](keynote_01.png)
 
 - [ ] custom Pen tool line
 - [ ] straight connection line
@@ -20,7 +20,7 @@
 
 #### Q3. For the shown below, how can you make the landscape photo fit cleanly within the circle shape?
 
-![Landscape photo with circle shape](images/picture2.png)
+![Landscape photo with circle shape](keynote_02.png)
 
 - [ ] Select the photo and the shape, then click **Arrange > Image > Reset Mask**.
 - [x] Select the photo and the shape, then click **Arrange > Image > Mask with Selection**.
@@ -94,7 +94,7 @@ E. Press the Down Arrow key.
 
 #### Q11. What technique was used to transform the circle shown below into the new shape on the right?
 
-![Circle and transformed version of circle](images/picture3.png)
+![Circle and transformed version of circle](keynote_03.png)
 
 - [ ] Right-click the shape and select **Make Editable**.
 - [ ] Use the Pen tool to customize the shape.

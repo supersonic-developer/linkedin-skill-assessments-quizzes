@@ -137,7 +137,7 @@
 
 #### Q12. To which internal component does the illustrated (P1) connector attach?
 
-![Q12](images/picture1.jpg)
+![Q12](it_operations_01.jpg)
 
 - [x] motherboard
 - [ ] I/O panel
@@ -232,7 +232,7 @@
 
 #### Q25. Which type of power connector is this?
 
-![Q24](images/picture2.PNG)
+![Q24](it_operations_02.PNG)
 
 - [ ] Edison
 - [x] Molex

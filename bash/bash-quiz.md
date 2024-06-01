@@ -347,12 +347,12 @@ echo ${!fname}
 
 #### Q31. What will be the output of this script?
 
-![question](images/picture1.png)
+![question](bash_01.png)
 
-- [ ] `A` ![A](images/picture2.png)
-- [ ] `B` ![B](images/picture3.png)
-- [ ] `C` ![C](images/picture4.png)
-- [x] `D` ![D](images/picture5.png)
+- [ ] `A` ![A](bash_02.png)
+- [ ] `B` ![B](bash_03.png)
+- [ ] `C` ![C](bash_04.png)
+- [x] `D` ![D](bash_05.png)
 
 Here's a text based version of Q.30:
 
@@ -772,7 +772,7 @@ fi
 
 #### Q58. What is the result of this script?
 
-![question](images/picture6.png)
+![question](bash_06.png)
 
 - [ ] It removes the directory 'foo' and the files contained within it.
 - [ ] It removes all files except those in the current directory.

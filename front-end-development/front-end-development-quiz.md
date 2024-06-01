@@ -12,10 +12,10 @@
 }
 ```
 
-- [ ] ![A](images/picture1.jpg)
-- [x] ![B](images/picture2.jpg)
-- [ ] ![C](images/picture3.jpg)
-- [ ] ![D](images/picture4.jpg)
+- [ ] ![A](front_end_development_01.jpg)
+- [x] ![B](front_end_development_02.jpg)
+- [ ] ![C](front_end_development_03.jpg)
+- [ ] ![D](front_end_development_04.jpg)
 
 [Sample](https://jsfiddle.net/mrvahid/zohd8k2n/)
 
@@ -461,7 +461,7 @@ console.log(currencies);
 
 #### Q48. The image below has float: left applied. Text wraps the float on the right and bottom. How would you force the second paragraph to start underneath the float, leaving a gap after the preceding paragraph?
 
-![CSS clear](images/picture5.png)
+![CSS clear](front_end_development_05.png)
 
 - [ ] Apply `float: left` to the second paragraph.
 - [ ] Apply `clear: right` to the floated item.

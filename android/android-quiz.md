@@ -264,7 +264,7 @@ Notice: AndroidJUnitRunner lets us run JUnit3/4-style tests on Android Devices
 
 #### Q21. Which drawable definition allows you to achieve the shape below?
 
-![img](images/picture1.png)
+![img](android_01.png)
 
 - [ ] A
 
@@ -379,13 +379,13 @@ Notice: AndroidJUnitRunner lets us run JUnit3/4-style tests on Android Devices
 ```
 
 - [ ] A
-      ![img](images/picture2.jpeg)
+      ![img](android_02.jpeg)
 - [x] B
-      ![img](images/picture3.jpeg)
+      ![img](android_03.jpeg)
 - [ ] C
-      ![img](images/picture4.jpeg)
+      ![img](android_04.jpeg)
 - [ ] D
-      ![img](images/picture5.jpeg)
+      ![img](android_05.jpeg)
 
 #### Q29. You want to open the default Dialer app on a device. What is wrong with this code?
 
@@ -497,7 +497,7 @@ buildTypes {
 
 #### Q36. Which code snippet would achieve the layout displayed below?
 
-![img](images/picture6.jpeg)
+![img](android_06.jpeg)
 
 - [ ] A
 
@@ -682,7 +682,7 @@ buildTypes {
 
 #### Q45. Which drawable definition allows you to achieve the shape below?
 
-![img](images/picture7.jpeg)
+![img](android_07.jpeg)
 
 - [ ] A
 
@@ -733,7 +733,7 @@ buildTypes {
 
 #### Q46. Given the ConstraintLayout below, which statement is true?
 
-![img](images/picture8.jpeg)
+![img](android_08.jpeg)
 
 - [ ] View B is not horizontally constrained.
 - [ ] View C has too many constraints.
@@ -931,16 +931,16 @@ override fun onCreate(savedInstanceState: Bundle?) { super.onCreate(savedInstanc
 #### Q61. Which layout hierarchy is likely to be drawn the most quickly?
 
 - [x] A
-      ![img](images/picture9.jpg)
+      ![img](android_09.jpg)
 
 - [ ] B
-      ![img](images/picture10.png)
+      ![img](android_10.png)
 
 - [ ] C
-      ![img](images/picture11.png)
+      ![img](android_11.png)
 
 - [ ] D
-      ![img](images/picture12.png)
+      ![img](android_12.png)
 
 #### Q62. What is the current recommended way to handle long-running background tasks?
 
@@ -1176,7 +1176,7 @@ val string: String = getString(
 
 #### Q74. In your app, you have a RecyclerView of items. You want to have a different configuration for portrait and landscape modes. which code snippet would allow you to best support the layout below?
 
-![img](images/picture13.png)
+![img](android_13.png)
 
 - [ ] A
 

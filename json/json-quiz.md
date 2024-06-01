@@ -691,7 +691,7 @@ null
 
 #### Q51. Is the JSON code shown here valid?
 
-![JSON object with key "Vehicles" containing an array of emojis](images/picture1.jpeg)
+![JSON object with key "Vehicles" containing an array of emojis](json_01.jpeg)
 
 - [ ] No, emojis must be escaped with a backslash.
 - [ ] No, JSON strings are not allowed to use emojis.

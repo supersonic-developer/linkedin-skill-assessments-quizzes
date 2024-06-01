@@ -32,11 +32,11 @@ class FileModifier:
         # Regular expression pattern for image references
         pattern = r'!\[.*?\]\((.*?)\)'
         # Iterate through all the subdirectories in the root directory
-        for subdir in self.sub_dirs:
-            for md_file in os.listdir(subdir):
+        for sub_dir in self.sub_dirs:
+            for md_file in os.listdir(sub_dir):
                 # Select only markdown files
                 if md_file.endswith('.md'):
-                    md_file_path = os.path.join(subdir, md_file)
+                    md_file_path = os.path.join(sub_dir, md_file)
 
                     # Read the content of the markdown file
                     with open(md_file_path, 'r', encoding='utf-8') as file:
@@ -52,21 +52,21 @@ class FileModifier:
                         image_sub_path = image_ref.split('?')[0]
 
                         # Check if the image reference refers to a local file
-                        image_path = os.path.join(subdir, image_sub_path).replace('/', '\\')
+                        image_path = os.path.join(sub_dir, image_sub_path).replace('/', '\\')
                         if os.path.isfile(image_path):
                             #print(f"Image found for reference {image_ref} at the path: {image_path} in {md_file_path}")
                             image_cnt += 1
-                            new_image_name = f"picture{image_cnt}{os.path.splitext(image_path)[1]}"
+                            base_dir = os.path.basename(sub_dir).replace('-', '_')
+                            new_image_name = f"{base_dir}_{image_cnt:02}{os.path.splitext(image_path)[1]}"
+                            new_image_path = os.path.join(sub_dir, new_image_name)
 
-                            # Rename the image file
-                            image_dir_path = os.path.dirname(image_path)
-                            new_image_path = os.path.join(image_dir_path, new_image_name)
-                            print(f"Renaming image from {image_path} to {new_image_path}")
-                            os.rename(image_path, new_image_path)
+                            # Copy the images to the root directory of .md file
+                            shutil.copy2(image_path, new_image_path)
+                            print(f"Copied image from {image_path} to {new_image_path}")
 
                             # Update the image reference in the markdown file
-                            content = content.replace(image_ref, f'images/{new_image_name}')
-                            print(f"Updating image reference from {image_ref} to images/{new_image_name} in {md_file_path}")
+                            content = content.replace(image_ref, f'{new_image_name}')
+                            print(f"Updating image reference from {image_ref} to {new_image_name} in {md_file_path}")
                         else:
                             print(f"Image not found for reference {image_ref} at the path: {image_ref} in {md_file_path}")
                     
@@ -117,4 +117,4 @@ def delete_self():
 
 
 fileModifier = FileModifier()
-fileModifier.rename_images_and_update_references()
+fileModifier.remove_image_dirs()

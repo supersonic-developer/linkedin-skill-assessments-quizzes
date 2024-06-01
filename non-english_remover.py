@@ -117,4 +117,4 @@ def delete_self():
 
 
 fileModifier = FileModifier()
-fileModifier.rename_images_and_update_references()
+fileModifier.remove_image_dirs()

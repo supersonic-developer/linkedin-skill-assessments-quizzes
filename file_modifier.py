@@ -58,16 +58,19 @@ class FileModifier:
                             #print(f"Image found for reference {image_ref} at the path: {image_path} in {md_file_path}")
                             image_cnt += 1
                             base_dir = os.path.basename(sub_dir).replace('-', '_')
-                            new_image_name = f"{base_dir}_{image_cnt:02}{os.path.splitext(image_path)[1]}"
+                            new_image_name = f"{base_dir}_{image_cnt:02}{os.path.splitext(image_path)[1]}".lower().replace('+', 'p')
                             new_image_path = os.path.join(sub_dir, new_image_name)
 
-                            # Copy the images to the root directory of .md file
-                            shutil.copy2(image_path, new_image_path)
-                            print(f"Copied image from {image_path} to {new_image_path}")
+                            # Copy file only if it differs from the original file
+                            if not new_image_path == image_path:
+                                # Copy the images to the root directory of .md file
+                                os.rename(image_path, new_image_path)
+                                #shutil.copy2(image_path, new_image_path)
+                                print(f"Copied image from {image_path} to {new_image_path}")
 
-                            # Update the image reference in the markdown file
-                            content = content.replace(image_ref, f'{new_image_name}')
-                            print(f"Updating image reference from {image_ref} to {new_image_name} in {md_file_path}")
+                                # Update the image reference in the markdown file
+                                content = content.replace(image_ref, f'{new_image_name}')
+                                print(f"Updating image reference from {image_ref} to {new_image_name} in {md_file_path}")
                         else:
                             print(f"Image not found for reference {image_ref} at the path: {image_ref} in {md_file_path}")
                     
@@ -115,8 +118,15 @@ def delete_self():
     except Exception as e:
         print(f"Error deleting script: {e}")
 
+# Main function
+
 # Instantiate the FileModifier class
 fileModifier = FileModifier()
+
+if len(sys.argv) < 2:
+    fileModifier.rename_images_and_update_references()
+    print("No argument provided. Please read README.md for more information.")
+    sys.exit()
 
 # Initialize the git repository as raw resource (.md files are included)
 if sys.argv[1].lower() in ['true', '1', 't', 'y', 'yes']:

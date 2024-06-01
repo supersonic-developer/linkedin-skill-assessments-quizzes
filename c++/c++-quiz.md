@@ -1250,7 +1250,7 @@ int main(){
 
 #### Q74. Given these records in a map, how will you update the value for the key "Sinead" to 22?
 
-![image](c++_01.png)
+![image](cpp_01.png)
 
 - [x] `marks["Sinead"] = 22`
 - [ ] `marks["Sinead"].22`

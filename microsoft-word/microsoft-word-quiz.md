@@ -780,7 +780,7 @@ A pie chart only reads a single data series from a data source and ignores all o
 
 #### Q99. Which selection handle should you drag to rotate the object?
 
-![Q99.png](images/valami7.png)
+![Q99.png](microsoft_word_07.png)
 
 - [ ] G
 - [ ] E

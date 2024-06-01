@@ -34,7 +34,7 @@
 
 #### Q5. What are the icons highlighted below used for?
 
-![Google Analytics Icons](images/picture2.png)
+![Google Analytics Icons](images/picture1.png)
 
 - [x] to change the way the data table is displayed
 - [ ] to adjust the date range
@@ -208,7 +208,7 @@
 
 #### Q29. What is this report an example of?
 
-![Tree map](images/picture1.png)
+![Tree map](images/picture2.png)
 
 - [ ] Cohort analysis
 - [ ] Funnel visualization

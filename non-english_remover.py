@@ -44,6 +44,7 @@ class FileModifier:
                     
                     # Find all image references in the markdown file
                     image_refs = re.findall(pattern, content)
+                    image_refs = list(dict.fromkeys(image_refs))
                     image_cnt = 0
 
                     for i, image_ref in enumerate(image_refs):
@@ -116,4 +117,4 @@ def delete_self():
 
 
 fileModifier = FileModifier()
-#fileModifier.rename_images_and_update_references()
+fileModifier.rename_images_and_update_references()

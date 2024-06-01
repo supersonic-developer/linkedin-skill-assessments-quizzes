@@ -662,7 +662,7 @@ Results: [1] "GHW BUsh" "Clinton" "Obama"
 
 #### Q61. In this image below, the data frame on lines 1 through 4 is named StDf. StDf contains no factors. Why does statement on line 6 return "character" while the statement on line 7 returns "data.frame"?
 
-![image](images/picture5.png)
+![image](images/picture4.png)
 
 - [ ] Each value in the first row is a character value, but the values in the third column include both character and numeric values.
 - [ ] By specifying the final row, 3, and no column specified, StDf[3, ] calls for the complete structure.
@@ -677,7 +677,7 @@ mtrx <- matrix(1:6, 3, 2)
 mtrx[, -1]
 ```
 
-![image](images/picture6.png)
+![image](images/picture5.png)
 
 - [ ] &shy;
 
@@ -703,7 +703,7 @@ mtrx[, -1]
 
 #### Q65. In the image below, the data frame named iris includes a numeric vector named Petal.Length. Do the functions labeled Pair 1 and Pair 2 return the same information?
 
-![image](images/picture4.png)
+![image](images/picture6.png)
 
 - [x] No, both the length and the class of the returned structures are different.
 - [ ] Yes, both pairs of statements return an object with the same length and class.

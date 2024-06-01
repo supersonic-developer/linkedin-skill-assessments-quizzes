@@ -132,7 +132,7 @@
 
 #### Q9. You are working with the tables as shown in this diagram. You need to generate the list of customers who purchased certain car models. Which SQL clause do you use?
 
-![mysql Q09](images/picture1.jpg?raw=true)
+![mysql Q09](images/picture1.jpg)
 
 - [ ] LIKE
 - [x] IN
@@ -363,7 +363,7 @@
 
 #### Q40. Which statement is true for the diagram below
 
-![mysql Q41](images/picture4.jpg?raw=true)
+![mysql Q41](images/picture2.jpg)
 
 - [ ] carid is the primary key for purchases
 - [ ] carid is the foreign key for cars.carid
@@ -556,7 +556,7 @@ Note: both answers are correct - see [TRUNCATE TABLE Statement](https://dev.mysq
 
 #### Q60. You are working with the tables as shown in this diagram. You need to get the number of cars sold per the home state of each customer's residence. How can you accomplish this?
 
-![mysql Q61](images/picture5.png?raw=true)
+![mysql Q61](images/picture3.png)
 
 - [ ] `SELECT state, COUNT(*) FROM customers WHERE ID IN (SELECT customerID FROM purchases) GROUP BY state;`
 - [ ] `SELECT state, COUNT(*) FROM customers c LEFT JOIN purchases p ON c.ID = p.customerID GROUP BY state;`
@@ -725,7 +725,7 @@ WHERE MATCH(address) AGAINST ('street, drive');
 
 #### Q78. In the diagram below, the price field is declared as type DECIMAL. What would be a more efficient declaration for this field?
 
-![mysql picture](images/picture6.png?raw=true)
+![mysql picture](images/picture4.png)
 
 - [ ] FLOAT
 - [x] DECIMAL(10,2)
@@ -743,7 +743,7 @@ Explnation: BIT is not a string type
 
 #### Q80. This diagram shows what type of relationship between customers and cars?
 
-![mysql picture](images/picture6.png?raw=true)
+![mysql picture](images/picture4.png)
 
 - [ ] one-to-many
 - [ ] parent-child
@@ -768,7 +768,7 @@ Explanation: Both `SET` and `DECLARE` are used to create variables. Reference: [
 
 #### Q83. In the diagram below, the ID fields are declared as type CHAR instead of INT . Which is NOT one of the possible reasons behind that decision?
 
-![mysql picture](images/picture7.png?raw=true)
+![mysql picture](images/picture5.png)
 
 - [ ] The ID field needs to include letters and not just numbers.
 - [ ] You can have a consistent format across all of the tables that require ID fields.
@@ -806,7 +806,7 @@ SELECT name FROM students WHERE name REGEXP '^to';
 
 #### Q87. You are working with the tables as shown in the diagram. You need to generate the list of price totals for each make and model of car, with subtotals for each make, and the grand total of all prices. Which SQL clause do you use?
 
-![mysql picture](images/picture8.png?raw=true)
+![mysql picture](images/picture6.png)
 
 - [ ] UNION
 - [ ] SHOW TOTALS
@@ -857,7 +857,7 @@ SELECT name FROM students WHERE name REGEXP '^to';
 
 #### Q94. You are working with the tables shown below. You need to generate the list of all cars, whether or not they had been sold. Which statement accomplishes that?
 
-![mysql picture](images/picture9.png?raw=true)
+![mysql picture](images/picture7.png)
 
 - [ ] A
 
@@ -972,7 +972,7 @@ Table name: superheroes
 
 #### Q100. You are working on UPDATE trigger on the employee tablein this diagram. How can you access the new value for the address inside the trigger?
 
-![mysql picture](images/picture3.png?raw=true)
+![mysql picture](images/picture8.png)
 
 - [x] Use NEW.address
 - [ ] Use INSERTED.address
@@ -983,7 +983,7 @@ Table name: superheroes
 
 #### Q101. You are working with the tables as shown in this diagram. You need to generate the list of customers who purchased certain car models. Which SQL clause do you use?
 
-![Q104](images/picture10.png)
+![Q104](images/picture9.png)
 
 - [ ] UNION ALL
 - [x] UNION
@@ -1070,7 +1070,7 @@ Table name: superheroes
 
 #### Q110. You are working with the tables shown below. You need to make sure that any record added to the purchases table consists of a customerlD, which already exists in the customers table, and a carlD, which already exists in the cars table. You decide to use a trigger to do the validation. Which one do you use?
 
-![mysql picture](images/picture7.png?raw=true)
+![mysql picture](images/picture5.png)
 
 - [ ] IF EXISTS
 - [ ] CROSS JOIN
@@ -1088,7 +1088,7 @@ Table name: superheroes
 
 #### Q112. Which statement would you _not_ use to filter data?
 
-![image](images/picture11.png)
+![image](images/picture10.png)
 
 - [x] GROUP_BY
 - [ ] MATCH

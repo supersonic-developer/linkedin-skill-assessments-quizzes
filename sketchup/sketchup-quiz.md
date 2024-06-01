@@ -177,7 +177,7 @@
 
 #### Q21. What does the dash blue line in this image represent?
 
-![image](images/picture12.png)
+![image](images/picture2.png)
 
 - [ ] The unbidden edge
 - [ ] The inference edge
@@ -235,7 +235,7 @@
 
 #### Q29. The drawing on the left has a hidden line style selected, but some of the information seems lost. The drawing on the right has the samestyle, but seems to be showing all geometry. What setting was changed to fix this?
 
-![image](images/picture11.png)
+![image](images/picture3.png)
 
 - [x] In the Styles window, select the Edit tab, click the Edges icon, and select the Back Edges option.
 - [ ] In the Styles window, select the Edit tab, click the Edges icon, and select the Depth Cue option.
@@ -251,7 +251,7 @@
 
 #### Q31. You are trying to cut an opening in a countertop that is the same shape as an oval sink, so that the sink bowl is visible.Whichfunction would create this?
 
-![image](images/picture14.png)
+![image](images/picture4.png)
 
 - [x] Intersect Faces with Model
 - [ ] Circle tool and Push/Pull
@@ -265,13 +265,13 @@
 - [ ] a program that comes with SketchUp Pro for added functionality
 - [ ] a rectangle that is offset outward of its original shape
       Q33. Which Styles window settings icon would you select to change the color of the ground in your model?
-- [ ] A ![image](images/picture13.png)
+- [ ] A ![image](images/picture5.png)
 
-- [ ] B ![image](images/picture16.png)
+- [ ] B ![image](images/picture6.png)
 
-- [x] C ![image](images/picture15.png)
+- [x] C ![image](images/picture7.png)
 
-- [ ] D ![image](images/picture18.png)
+- [ ] D ![image](images/picture8.png)
 
 #### Q34. While working on a kitchen model, you try using the Move tool to move a cabinet but accidentally click the stove and begin to moveit. What should you do?
 
@@ -282,13 +282,13 @@
 
 #### Q35. which of these icons is the Arc tool?
 
-- [ ] A ![image](images/picture17.png)
+- [ ] A ![image](images/picture9.png)
 
-- [x] B ![image](images/picture4.png)
+- [x] B ![image](images/picture10.png)
 
-- [ ] C ![image](images/picture2.png)
+- [ ] C ![image](images/picture11.png)
 
-- [ ] D ![image](images/picture3.png)
+- [ ] D ![image](images/picture12.png)
 
 #### Q36. How do you add to a selection?
 
@@ -299,13 +299,13 @@
 
 #### Q37. which icon represents a tool that will extrude a surface?
 
-- [ ] A ![image](images/picture17.png)
+- [ ] A ![image](images/picture9.png)
 
-- [x] B ![image](images/picture5.png)
+- [x] B ![image](images/picture13.png)
 
-- [ ] C ![image](images/picture6.png)
+- [ ] C ![image](images/picture14.png)
 
-- [ ] D ![image](images/picture7.png)
+- [ ] D ![image](images/picture15.png)
 
 #### Q38. what is the purpose of the 2D people included in some sketchUp templates?
 
@@ -330,7 +330,7 @@
 
 #### Q41. How many edges are in this image?
 
-![image](images/picture8.png)
+![image](images/picture16.png)
 
 - [x] seven
 - [ ] eight
@@ -339,7 +339,7 @@
 
 #### Q42. What action is being demonstrated in this image?
 
-![image](images/picture9.png)
+![image](images/picture17.png)
 
 - [ ] Offset
 - [ ] Rise
@@ -369,7 +369,7 @@
 
 #### Q46. The cube on the bottom is in one group and the cube on top is in another group.How can you keep them in two separate groups,but have them appear as one when not selected?
 
-![image](images/picture10.png)
+![image](images/picture18.png)
 
 - [ ] Erase the bottom edges in the top group and the top edges in the bottom group.
 - [ ] Extrude both farther so that the geometry is overlapping.
@@ -469,7 +469,7 @@
 
 #### Q40. How many edges are in this image?
 
-![sketchup image](images/picture8.png)
+![sketchup image](images/picture16.png)
 
 - [x] seven
 - [ ] eight
@@ -478,7 +478,7 @@
 
 #### Q41. What action is being demonstrated in this image?
 
-![sketchup image](images/picture9.png)
+![sketchup image](images/picture17.png)
 
 - [ ] Offset
 - [ ] Rise
@@ -508,7 +508,7 @@
 
 #### Q45. The cube on the bottom is in one group and the cube on top is in another group.How can you keep them in two separate groups,but have them appear as one when not selected?
 
-![sketchup image](images/picture10.png)
+![sketchup image](images/picture18.png)
 
 - [ ] Erase the bottom edges in the top group and the top edges in the bottom group.
 - [ ] Extrude both farther so that the geometry is overlapping.
@@ -524,10 +524,10 @@
 
 #### Q47. which icon represents a tool that will extrude a surface?
 
-- [ ]![sketchup image](images/picture17.png)
-- [x]![sketchup image](images/picture5.png)
-- [ ]![sketchup image](images/picture6.png)
-- [ ]![sketchup image](images/picture7.png)
+- [ ]![sketchup image](images/picture9.png)
+- [x]![sketchup image](images/picture13.png)
+- [ ]![sketchup image](images/picture14.png)
+- [ ]![sketchup image](images/picture15.png)
 
 - [ ] Use the "Paint Bucket" tool and paint the entire model.
 - [ ] Create a group or component, and then apply the texture.

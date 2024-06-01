@@ -2324,7 +2324,7 @@ input.invalid {
 
 #### Q141. Which style rule will place an X within the grid to win the game?
 
-![A](images/Q-141.png?raw=png)
+![A](images/picture4.png)
 
 - [ ] row: 3;
       column: 3;

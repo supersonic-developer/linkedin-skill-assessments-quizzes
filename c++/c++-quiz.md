@@ -764,8 +764,6 @@ std::vector<std::vector<int>> thematrix;
 
 #### Q42. What is the statement below equivalent to?
 
-#### Q42.b. What is the statement equivalent to?
-
 ```cpp
 sprite->x
 ```

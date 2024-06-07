@@ -621,7 +621,7 @@ end
 
 #### Q41. Which code block most likely produced this graph?
 
-![MatLab Q39](images/picture1.jpg)
+![MatLab Q39](matlab_01.jpg)
 
 - [ ] &shy;
 
@@ -1000,7 +1000,7 @@ a = [ 1 2 3 4];
 
 #### Q68. This graph could be the result of which block of code?
 
-![MatLab Q41](images/picture2.png)
+![MatLab Q41](matlab_02.png)
 
 - [x] `a = randn(1,1000); histogram(a) ylabel('counts')`
 - [ ] `a = rand(1,1000); histogram(a) ylabel('counts')`

@@ -29,7 +29,7 @@
 
 #### Q4. How can you avoid having transparent edges along the edge of a panoramic photo while retaining the largest image size?
 
-![How can you avoid having transparent edges along the edge of a panoramic photo while retaining the largest image size?](images/picture1.png)
+![How can you avoid having transparent edges along the edge of a panoramic photo while retaining the largest image size?](adobe_photoshop_01.png)
 
 - [ ] Choose the Cylindrical method.
 - [ ] Choose the Perspective method.
@@ -127,7 +127,7 @@ E. Perspective Warp
 
 #### Q16. What Photoshop feature was used to convert this image to black and white?
 
-![What Photoshop feature was used to convert this image to black and white?](images/picture2.png)
+![What Photoshop feature was used to convert this image to black and white?](adobe_photoshop_02.png)
 
 - [ ] Black and White adjustment layer
 - [ ] Posterize
@@ -136,7 +136,7 @@ E. Perspective Warp
 
 #### Q17. In the image shown, why are sharpened edges grayed out?
 
-![In the image shown, why is Sharpen Edges grayed out?](images/picture3.png)
+![In the image shown, why is Sharpen Edges grayed out?](adobe_photoshop_03.png)
 
 - [ ] The filter doesn't work on a 16-bit image.
 - [ ] The filer is not correctly installed.
@@ -145,7 +145,7 @@ E. Perspective Warp
 
 #### Q18. In the image shown, which Camera Raw feature was used to restrict the graduated filter to avoid the statue?
 
-![In the image shown, which Camera Raw feature was used to restrict the graduated filter to avoid the statue?](images/picture4.png)
+![In the image shown, which Camera Raw feature was used to restrict the graduated filter to avoid the statue?](adobe_photoshop_04.png)
 
 - [x] Adjustment Brush
 - [ ] Depth Range Mask
@@ -161,7 +161,7 @@ E. Perspective Warp
 
 #### Q20. Which Camera Raw Transform method is being used in the example shown?
 
-![Which Camera Raw Transform method is being used in the example shown?](images/picture5.png)
+![Which Camera Raw Transform method is being used in the example shown?](adobe_photoshop_05.png)
 
 - [x] Guided
 - [ ] Vertical
@@ -191,7 +191,7 @@ E. Perspective Warp
 
 #### Q24. Which option was **not** selected in the Magic Wand tool to create a selection like the one shown below?
 
-![Which option was not selected in the Magic Wand tool to create a selection like the one shown below?](images/picture6.png)
+![Which option was not selected in the Magic Wand tool to create a selection like the one shown below?](adobe_photoshop_06.png)
 
 - [x] Contiguous
 - [ ] Anti-alias
@@ -200,7 +200,7 @@ E. Perspective Warp
 
 #### Q25. Where should you click to open a dialog box in which you can then choose to open a raw file as a Smart Object?
 
-![Where should you click to open a dialog box in which you can then choose to open a raw file as a Smart Object?](images/picture7.png)
+![Where should you click to open a dialog box in which you can then choose to open a raw file as a Smart Object?](adobe_photoshop_07.png)
 
 - [ ] A
 - [ ] B
@@ -288,7 +288,7 @@ E. Perspective Warp
 
 #### Q37. To hide the white borders around pixels that are viewed at high magnification, which option do you disable?
 
-![To hide the white borders around pixels that are viewed at a high magnification, which option do you disable?](images/picture8.png)
+![To hide the white borders around pixels that are viewed at a high magnification, which option do you disable?](adobe_photoshop_08.png)
 
 - [ ] Window > Workspace > Grid
 - [ ] View > Show > Slices
@@ -348,7 +348,7 @@ E. Perspective Warp
 
 #### Q45. You're trying to use the Healing Brush tool, but don't see results. What is the problem?
 
-![You're trying to use the Healing Brush tool, but don't see results. What is the problem?](images/picture9.png)
+![You're trying to use the Healing Brush tool, but don't see results. What is the problem?](adobe_photoshop_09.png)
 
 - [x] You forgot to Shift-click to set the source point for the tool
 - [ ] You forgot to Alt-click (Windows) or Option-click (Mac) to set the source point for the tool
@@ -366,7 +366,7 @@ E. Perspective Warp
 
 #### Q47. Which option do you use with the Dodge and Burn tools to prevent unwanted color changes like those shown in the image?
 
-![Which option do you use with the Dodge and Burn tools to prevent unwanted color changes like those shown in the image?](images/picture10.png)
+![Which option do you use with the Dodge and Burn tools to prevent unwanted color changes like those shown in the image?](adobe_photoshop_10.png)
 
 - [ ] Sample All Layers
 - [x] Protect Tones
@@ -377,7 +377,7 @@ E. Perspective Warp
 
 #### Q48. Which command in the **Smart Objects** submenu would you see to save the original file for the selected layer?
 
-![Which command in the Smart Objects submenu would you see to save the original file for the selected layer?](images/picture11.png)
+![Which command in the Smart Objects submenu would you see to save the original file for the selected layer?](adobe_photoshop_11.png)
 
 - [ ] Edit Contents
 - [ ] Replace Contents
@@ -386,7 +386,7 @@ E. Perspective Warp
 
 #### Q49. In the image shown, which Blur method is being used to control focus with a series of pins?
 
-![In the image shown, which Blur method is being used to control focus with a series of pins?](images/picture12.png)
+![In the image shown, which Blur method is being used to control focus with a series of pins?](adobe_photoshop_12.png)
 
 - [ ] Path Blur
 - [ ] Tilt-Shift Blur
@@ -395,7 +395,7 @@ E. Perspective Warp
 
 #### Q50. In the image shown, what do the blue areas represent?
 
-![In the image shown, what do the blue areas represent?](images/picture13.png)
+![In the image shown, what do the blue areas represent?](adobe_photoshop_13.png)
 
 - [ ] Color cast
 - [ ] Clipped shadow detail
@@ -404,7 +404,7 @@ E. Perspective Warp
 
 #### Q51. What does the grayscale image in this figure show?
 
-![What does the grayscale image in this figure show?](images/picture14.png)
+![What does the grayscale image in this figure show?](adobe_photoshop_14.png)
 
 - [x] the edges affected by the Sharpen command as refined by the Masking slider
 - [ ] the edges affected by the Sharpen command as refined by the Radius slider
@@ -413,7 +413,7 @@ E. Perspective Warp
 
 #### Q52. Where do you click to adjust the blending mode for a Smart Filter?
 
-![Where do you click to adjust the blending mode for a Smart Filter?](images/picture15.png)
+![Where do you click to adjust the blending mode for a Smart Filter?](adobe_photoshop_15.png)
 
 - [ ] A
 - [ ] C
@@ -657,7 +657,7 @@ E. Perspective Warp
 
 #### Q86. Which method was used to soften the edges of this selection?
 
-![Which method was used to soften the edges of this selection?](images/picture16.jpeg)
+![Which method was used to soften the edges of this selection?](adobe_photoshop_16.jpeg)
 
 - [ ] Expand
 - [ ] Smooth
@@ -666,7 +666,7 @@ E. Perspective Warp
 
 #### Q87. What can be said about the Curve adjustment shown here?
 
-![What can be said about the Curves adjustment shown here?](images/picture17.jpeg)
+![What can be said about the Curves adjustment shown here?](adobe_photoshop_17.jpeg)
 
 - [ ] It will prevent shadows from pushing up.
 - [x] It will increase the mid-tone contrast.
@@ -675,7 +675,7 @@ E. Perspective Warp
 
 #### Q88. Why is the Sycamore Leaf 1 layer underlined, as shown?
 
-![Why is the Sycamore Leaf 1 layer underlined, as shown?](images/picture18.jpeg)
+![Why is the Sycamore Leaf 1 layer underlined, as shown?](adobe_photoshop_18.jpeg)
 
 - [ ] The Sycamore Leaf 1 layer is the base layer of a clipping mask.
 - [ ] The Sycamore Leaf 1 layer is linked.
@@ -684,7 +684,7 @@ E. Perspective Warp
 
 #### Q89. Which layer(s) does the depicted Hue/Saturation 1 adjustment layer affect?
 
-![Which layer(s) does the depicted Hue/Saturation 1 adjustment layer affect?](images/picture19.png)
+![Which layer(s) does the depicted Hue/Saturation 1 adjustment layer affect?](adobe_photoshop_19.png)
 
 - [ ] A
 - [ ] B, C and D
@@ -739,7 +739,7 @@ E. Perspective Warp
 
 #### Q96. Which RGB control do you click to add a single control point to the Curve adjustment?
 
-![Which RGB control do you click to add a single control point to the Curves adjustment?](images/picture20.png)
+![Which RGB control do you click to add a single control point to the Curves adjustment?](adobe_photoshop_20.png)
 
 - [x] A (on-image adjustment tool)
 - [ ] B (sample in image to set black point)
@@ -755,7 +755,7 @@ E. Perspective Warp
 
 #### Q98. Which options bar icon subtracts from a selection?
 
-![Which options bar icon subtracts from a selection?](images/picture21.png)
+![Which options bar icon subtracts from a selection?](adobe_photoshop_21.png)
 
 - [ ] A
 - [ ] B
@@ -870,7 +870,7 @@ E. Liquify
 
 #### Q113.How can you switch the main window back to a traditional layout to view one image at a time?
 
-![How can you switch the main window back to a traditional layout to view one image at a time?](images/picture22.png)
+![How can you switch the main window back to a traditional layout to view one image at a time?](adobe_photoshop_22.png)
 
 - [x] Click Window > Arrange > consolidate All to Tabs.
 - [ ] Click Window > Arrange > Tile All Horizontally.

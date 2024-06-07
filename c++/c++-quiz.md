@@ -764,8 +764,6 @@ std::vector<std::vector<int>> thematrix;
 
 #### Q42. What is the statement below equivalent to?
 
-#### Q42.b. What is the statement equivalent to?
-
 ```cpp
 sprite->x
 ```
@@ -1250,7 +1248,7 @@ int main(){
 
 #### Q74. Given these records in a map, how will you update the value for the key "Sinead" to 22?
 
-![image](images/picture1.png)
+![image](cpp_01.png)
 
 - [x] `marks["Sinead"] = 22`
 - [ ] `marks["Sinead"].22`

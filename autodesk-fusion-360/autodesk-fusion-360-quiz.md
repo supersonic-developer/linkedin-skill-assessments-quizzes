@@ -23,7 +23,7 @@
 
 #### Q4. How many holes were used in the making of this object?
 
-![image](images/picture1.png)
+![image](autodesk_fusion_360_01.png)
 
 - [x] 1
 - [ ] 2
@@ -180,7 +180,7 @@
 
 #### Q26. How many sketches are required to create this object?
 
-![image](images/picture2.png)
+![image](autodesk_fusion_360_02.png)
 
 - [x] Two
 - [ ] Three

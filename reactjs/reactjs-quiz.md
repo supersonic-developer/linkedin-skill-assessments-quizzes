@@ -1189,7 +1189,7 @@ add();
 - [ ] 0
 - [ ] undefined
 
-![image](images/picture1.png)
+![image](reactjs_01.png)
 
 Explanation: function that called without parameter will use its param default value, thus x will always be default to 1 and y will always be default to 2.
 

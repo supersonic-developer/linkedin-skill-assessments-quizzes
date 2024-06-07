@@ -30,7 +30,7 @@
 
 #### Q5. What Microsoft Project view is shown in the image below?
 
-![Microsoft Project Q05](images/picture1.jpg)
+![Microsoft Project Q05](microsoft_project_01.jpg)
 
 - [x] Network Diagram
 - [ ] Task Dependency Report
@@ -289,7 +289,7 @@
 
 #### Q38. In the image below, what does the indicator in Task ID 9 represent?
 
-![Microsoft Project Q38](images/picture2.jpg)
+![Microsoft Project Q38](microsoft_project_02.jpg)
 
 - [x] subproject
 - [ ] linked file

@@ -409,7 +409,7 @@ GROUP BY Grade;
 
 #### Q33. Refer to the figure below.
 
-![T-SQL-Q33](images/picture1.jpg)
+![T-SQL-Q33](t_sql_01.jpg)
 
 - [ ] `UPDATE Students SET last_name='Smith', email = 'dsmith@rouxacademy.com' WHERE id='56295';`
 - [ ] `UPDATE Students SET last_name='Smith' AND email = 'dsmith@rouxacademy.com' WHERE id='56295';`
@@ -441,7 +441,7 @@ END;
 
 #### Q36. Which is the right query to change the name of the Philosophy Pandas team to the Philosophy Parrots?
 
-![T-SQL-Q36](images/picture2.jpg)
+![T-SQL-Q36](t_sql_02.jpg)
 
 - [x] `UPDATES Students SET team = 'Philosophy Parrots' WHERE team = 'Philosophy Pandas';`
 - [ ] `UPDATES Students SET team = `Philosophy Parrots`WHERE team =`Philosophy Pandas;`
@@ -572,7 +572,7 @@ _______
 
 #### Q44. Which statement could you use to select a random student from this table?
 
-![T-SQL-Q36](images/picture2.jpg)
+![T-SQL-Q36](t_sql_02.jpg)
 
 - [x] `SELECT TOP(1) first_name, last_name FROM Students ORDER BY NEWID();`
 - [ ] `SELECT TOP(1) RAND(first_name, last_name) FROM Student;`
@@ -641,7 +641,7 @@ SELECT bal FROM Account WHERE acct='12345';
 
 #### Q51. The Marketing department wants to send an email to each member of the Humanities department. Based on the table below, which query gives them the first name and email address of each member of that department?
 
-![T-SQL-Q36](images/picture2.jpg)
+![T-SQL-Q36](t_sql_02.jpg)
 
 - [ ] `SELECT first_name, email FROM Students WHERE department = Humanities;`
 - [ ] `SELECT first_name, email FROM Students WHERE department = "Humanities";`
@@ -719,12 +719,12 @@ SELECT * FROM MyNumbers;
 - [ ] A
 - [ ] B
 - [x] C
-      ![Image of footer](images/picture3.png)
+      ![Image of footer](t_sql_03.png)
 - [ ] D
 
 #### Q57. Given the table below , which query shows How many students are in each department ?
 
-![T-SQL-Q55](images/picture4.jpg)
+![T-SQL-Q55](t_sql_04.jpg)
 
 - [x] Select Department, COUNT(\*) FROM Students GROUP BY Department;
 - [ ] SELECT COUNT(\*) FROM Students;

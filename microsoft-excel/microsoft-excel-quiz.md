@@ -16,7 +16,7 @@
 
 #### Q3. If you drag the fill handle (lower-right corner) of cell A2 downward into cells A3, A4, and A5, what contents will appear in those cells?
 
-![Jan](images/picture1.png)
+![Jan](microsoft_excel_01.png)
 
 - [ ] Jan, Jan, Jan
 - [ ] Feb, Mar, blank cell
@@ -32,7 +32,7 @@
 
 #### Q5. In the worksheet below, you want to use Data > Subtotal to show a subtotal value per sport. What must you do BEFORE applying the Subtotal function?
 
-![Subtotal](images/picture2.png)
+![Subtotal](microsoft_excel_02.png)
 
 - [ ] Sort by the data in Column E.
 - [ ] Format the data in Column D.
@@ -76,7 +76,7 @@
 
 #### Q11. In the image below, which option(s) can you select so that the appropriate field headers appear in cells A4 and B3 instead of the terms Row Labels and Column Labels, respectively?
 
-![Tabular form](images/picture3.png)
+![Tabular form](microsoft_excel_03.png)
 
 - [ ] Show in Tabular Form
 - [ ] Show in Compact Form
@@ -120,7 +120,7 @@
 
 #### Q17. The AutoSum formulas in the range C9:F9 below return unexpected values. Why is this?
 
-![AutoSum formula](images/picture4.png)
+![AutoSum formula](microsoft_excel_04.png)
 
 - [ ] The AutoSum formulas refer to the column to the left of their cells.
 - [ ] The AutoSum formulas exclude the bottom row of data.
@@ -130,7 +130,7 @@
 
 #### Q18. The text filter in column A is designed to display only those rows where column A entry has a particular attribute. What is this attribute?
 
-![Text filter](images/picture5.png)
+![Text filter](microsoft_excel_05.png)
 
 - [x] The second character in the cell is 9.
 - [ ] The number 9 appears one or more times within the cell.
@@ -167,7 +167,7 @@
 
 #### Q23. Which chart type can display two different data series as a different series type within the same chart?
 
-![Combo chart](images/picture6.png)
+![Combo chart](microsoft_excel_06.png)
 
 - [ ] XY chart
 - [ ] clustered column
@@ -176,7 +176,7 @@
 
 #### Q24. In the image below, what does clicking the button indicated by the green arrow do?
 
-![Select all](images/picture7.png)
+![Select all](microsoft_excel_07.png)
 
 - [ ] Hides or shows the formula bar.
 - [x] Selects all.
@@ -192,7 +192,7 @@
 
 #### Q26. In the worksheet below, you want to copy the formatting of cell A1 into cells B1:D1. Which approach (see arrows) accomplishes this the most efficiently?
 
-![Copy formatting](images/picture8.png)
+![Copy formatting](microsoft_excel_08.png)
 
 - [ ] B
 - [ ] C
@@ -294,7 +294,7 @@
 
 #### Q39. The charts below are based on the data in cells A3:G5. The chart on the right was created by copying the one on the left. Which ribbon button was clicked to change the layout of the chart on the right?
 
-![Charts](images/picture9.png)
+![Charts](microsoft_excel_09.png)
 
 - [ ] Move Chart
 - [ ] Switch Row/Column
@@ -366,7 +366,7 @@
 
 #### Q49. You want to add a column to the PivotTable below that shows a 5% bonus for each sales rep. That data does not exists in the original data table. How can you do this without adding more data to the table?
 
-![Calculated field](images/picture10.png)
+![Calculated field](microsoft_excel_10.png)
 
 - [ ] Add a new PivotTable field.
 - [ ] Add a calculated item
@@ -375,7 +375,7 @@
 
 #### Q50. You need to determine the commission earned by each Sales rep, based on the Sales amount in B3:B50 and the Commission rate specified in cell A1. You want to enter a formula in C3 and copy it down to C50. Which formula should you use?
 
-![Image](images/picture11.png)
+![Image](microsoft_excel_11.png)
 
 - [ ] `=A1*$B3`
 - [ ] `=A1*B3`
@@ -412,7 +412,7 @@
 
 #### Q55. Which function, when entered into cell G7, allows you to determine the sum total of annual sles for market regions 18 and greater?
 
-![Image](images/picture12.png)
+![Image](microsoft_excel_12.png)
 
 - [ ] `=SUMIF(G2:G6,">17",F2:F6)`
 - [ ] `=SUM(G2:G6,">=18,F2:F6)`
@@ -421,7 +421,7 @@
 
 #### Q56. Which function, when entered into cell F2 and then dragged to cell F6, returns the performance rating text (e.g., "Good", "Poor") for each representative?
 
-![Image](images/picture13.png)
+![Image](microsoft_excel_13.png)
 
 - [x] `=RIGHT(E2,LEN(E2)-27)`
 - [ ] `=LEN(E2,MID(E2)-27)`
@@ -442,7 +442,7 @@ Table[Column] can be used instead of cell references (C2:C7).
 
 #### Q58. Which `VLOOKUP` function, when entered into cell L2 and then dragged to cell L5, returns the average number of calls for the representative IDs listed in column J?
 
-![Image](images/picture14.png)
+![Image](microsoft_excel_14.png)
 
 - [ ] `=VLOOKUP(A2,J2:L5,1,FALSE)`
 - [ ] `=VLOOKUP(J2,A$2:C$7,1,FALSE)`
@@ -462,7 +462,7 @@ Table[Column] can be used instead of cell references (C2:C7).
 
 #### Q60. Which value is returned when you enter `=LEN(C3)` into cell F3?
 
-![Image](images/picture15.png)
+![Image](microsoft_excel_15.png)
 
 - [ ] 4
 - [x] 5
@@ -471,7 +471,7 @@ Table[Column] can be used instead of cell references (C2:C7).
 
 #### Q61. How can you create the lower table from the top one when the tables are not linked?
 
-![Image](images/picture16.png)
+![Image](microsoft_excel_16.png)
 
 - [ ] Select `Paste Special > Values.`
 - [x] Select `Paste Special > Transpose.`
@@ -489,7 +489,7 @@ Table[Column] can be used instead of cell references (C2:C7).
 
 #### Q63. Which formula, when entered into cell D2 and then dragged to cell D6, calculates the average total number of minutes spent on phone calls for each representative?
 
-![Image](images/picture17.png)
+![Image](microsoft_excel_17.png)
 
 - [ ] `=B$2*C$2`
 - [ ] `=$C$2/$B$2`
@@ -498,7 +498,7 @@ Table[Column] can be used instead of cell references (C2:C7).
 
 #### Q64. The PivotTable below has one row field and two column fields. How can you pivot this table to show the column fields as subtotals of each value in the row field?
 
-![Image](images/picture18.png)
+![Image](microsoft_excel_18.png)
 
 - [ ] On the PivotTable itself, drag each `Average` field into the row fields area.
 - [ ] Right-click a cell in the PivotTable and select `PivotTable Options > Classic PivotTable layout`.
@@ -509,7 +509,7 @@ Table[Column] can be used instead of cell references (C2:C7).
 
 #### Q65. Which Excel feature allows you to hide rows or columns with an easily visible expand/collapse?
 
-![Image](images/picture19.png)
+![Image](microsoft_excel_19.png)
 
 - [x] grouping
 - [ ] filtering
@@ -518,7 +518,7 @@ Table[Column] can be used instead of cell references (C2:C7).
 
 #### Q66. Monthly revenues of 2019 are entered in B2:M2, as shown below, To get year-to-date running total revenues, what formula should you enter in B3 and autofill through M3?
 
-![Image](images/picture20.png)
+![Image](microsoft_excel_20.png)
 
 - [ ] `=SUMIF($B$2:$M$2,"COLUMN($B$2:$M$2)<=COLUMN())")`
 - [x] `=SUM($B2:B2)`
@@ -538,7 +538,7 @@ Table[Column] can be used instead of cell references (C2:C7).
 
 #### Q68. In the worksheet shown below, cell C6 contains the formula `=VLOOKUP(A6,$F$2:$G$10,2,FALSE)`. What is the most likely reason that `#N/A` is returned in cell `C6` instead of mallory's `ID (2H54)`
 
-![Image](images/picture21.png)
+![Image](microsoft_excel_21.png)
 
 - [ ] The absolute/relative cell references in the formula are wrong
 - [ ] Cell A6 is not actualy text its a formula that need to be copied and pasted as a value
@@ -561,7 +561,7 @@ Table[Column] can be used instead of cell references (C2:C7).
 
 #### Q71. In this PivotTable, the continuous variable weight is shown in the **Row** field. Another continuous variable is in the **Sum** Values field. It is important to reduce a long list of body weights to a smaller set of weight categories. How do you do this?
 
-![Image](images/picture22.png)
+![Image](microsoft_excel_22.png)
 
 - [ ] Use weight as a filter field as well as a row field in the PivotTable.
 - [ ] Use `IF()` to show weight by categories instead of by pounds.
@@ -577,7 +577,7 @@ Table[Column] can be used instead of cell references (C2:C7).
 
 #### Q73. To ensure the `VLOOKUP` function returns the value of an exact match, what do you need to enter into the Range_lookup field?
 
-![Image](images/picture23.png)
+![Image](microsoft_excel_23.png)
 
 - [ ] 0
 - [ ] 1
@@ -586,7 +586,7 @@ Table[Column] can be used instead of cell references (C2:C7).
 
 #### Q74. Cell D2 contains the formula `=B2-C2`. What is the fastest way to copy that formula into cells D3:D501 (the bottom of the data set)?
 
-![Image](images/picture24.png)
+![Image](microsoft_excel_24.png)
 
 - [ ] Right-click D2 and select _Fill Down_.
 - [ ] Click D2's fill handle and drag it down to D501.
@@ -595,7 +595,7 @@ Table[Column] can be used instead of cell references (C2:C7).
 
 #### Q75. This data needs to be sorted by Group, then by Last Name, then by First Name. How do you accomplish this?
 
-![Image](images/picture25.png)
+![Image](microsoft_excel_25.png)
 
 - [ ] A
 
@@ -702,7 +702,7 @@ Table[Column] can be used instead of cell references (C2:C7).
 
 #### Q84. How would you connect the slicer to both PivotTables?
 
-![PivotTable](images/picture26.png)
+![PivotTable](microsoft_excel_26.png)
 
 - [ ] You cannot use one slicer for two PivotTables.
 - [ ] Right-click the slicer and select Slicer Settings.
@@ -720,7 +720,7 @@ https://sfmagazine.com/post-entry/may-2020-excel-sharing-a-pivot-table-slicer-be
 
 #### Q86. What happens if you use the **AutoSum** button in cell H4?
 
-![Image](images/picture27.png)
+![Image](microsoft_excel_27.png)
 
 - [ ] AutoSum shows the total in the bottom-right of the page
 - [ ] AutoSum will total the numbers in cells B4:G8
@@ -729,7 +729,7 @@ https://sfmagazine.com/post-entry/may-2020-excel-sharing-a-pivot-table-slicer-be
 
 #### Q87. To create this PivotTable, drag the _ field to the Rows area and the _ field to the Values area?
 
-![Image](images/picture28.png)
+![Image](microsoft_excel_28.png)
 
 - [ ] Total Sales This Year; Total Sales This Year
 - [ ] Total Sales This Year; Market Region
@@ -745,7 +745,7 @@ https://sfmagazine.com/post-entry/may-2020-excel-sharing-a-pivot-table-slicer-be
 
 #### Q89. Which value is calculated when the formula `=AVERAGE(G2:G6)/AVERAGE(C2:C6)` is entered into cell H7?
 
-![Image](images/picture29.jpeg)
+![Image](microsoft_excel_29.jpeg)
 
 - [ ] average number of minutes per call
 - [ ] average annual sales per minute
@@ -761,7 +761,7 @@ https://sfmagazine.com/post-entry/may-2020-excel-sharing-a-pivot-table-slicer-be
 
 #### Q91. How do you create a heatmap in a table, such as this one, which is responsive to the values?
 
-![Image](images/picture30.png)
+![Image](microsoft_excel_30.png)
 
 - [ ] map chart
 - [x] color scales (within conditional formatting)
@@ -779,7 +779,7 @@ Alignment** tab, click**\_\*\*.
 
 #### Q93. In the worksheet below, what do the symbols in rows 4, 6, 7, and 11 indicate?
 
-![Image](images/picture31.png)
+![Image](microsoft_excel_31.png)
 
 - [ ] The dates are erroneous, such as October 39, 2015.
 - [x] The columns aren't wide enough to show the full date.
@@ -788,7 +788,7 @@ Alignment** tab, click**\_\*\*.
 
 #### Q94. You are determining `%` growth by dividing Growth by Sales. Which Excel function would you use to avoid #DIV/0! errors?
 
-![Image](images/picture32.png)
+![Image](microsoft_excel_32.png)
 
 - [x] `IFERROR`
 - [ ] `ROUND`
@@ -806,7 +806,7 @@ Alignment** tab, click**\_\*\*.
 
 #### Q96. Which value is returned when you enter this function into cell G2? `=IF(SUM(F2:F6)>12,"Too Many Tardy Days","No Tardiness Issue")`
 
-![Shift Code](images/picture33.jpg)
+![Shift Code](microsoft_excel_33.jpg)
 
 - [ ] Too Many Tardy Days
 - [ ] #NUM!
@@ -824,7 +824,7 @@ Alignment** tab, click**\_\*\*.
 
 #### Q98. In this worksheet, how are cells A2:D2 related to cell C4?
 
-![Image](images/picture34.png)
+![Image](microsoft_excel_34.png)
 
 - [ ] Cells A2:D2 are comments relating to the formula in cell C4.
 - [ ] Cells A2:D2 are the source of an error in the formula in cell C4.
@@ -833,7 +833,7 @@ Alignment** tab, click**\_\*\*.
 
 #### Q99. What is the name given to the numbers in or above each bar in a column chart, as shown?
 
-![Image](images/picture35.png)
+![Image](microsoft_excel_35.png)
 
 - [ ] data table
 - [ ] data numbers
@@ -895,7 +895,7 @@ Alignment** tab, click**\_\*\*.
 
 #### Q107. How can you see the data in column E?
 
-![Image](images/picture36.png)
+![Image](microsoft_excel_36.png)
 
 - [ ] Close the workbook without saving and reopen it.
 - [ ] Turn off conditional formatting.
@@ -904,7 +904,7 @@ Alignment** tab, click**\_\*\*.
 
 #### Q108. In the worksheet below, a table called Projects extends from cell A1 to D10. Cell D1 contains the text Status. Cell E12 contains the formula =Projects[@Status]. What does this formula return?
 
-![Image](images/picture37.png)
+![Image](microsoft_excel_37.png)
 
 - [ ] `#VALUE!`
 - [ ] a blank cell
@@ -913,7 +913,7 @@ Alignment** tab, click**\_\*\*.
 
 #### Q109. Which Excel feature allows you to select all cells in the column with inconsistent formulas compared to the rest of the column?
 
-![Image](images/picture38.png)
+![Image](microsoft_excel_38.png)
 
 - [x] On the Home tab, click Go To > Special > Column differences.
 - [ ] On the Formulas tab, click Trace precedents.
@@ -940,7 +940,7 @@ Alignment** tab, click**\_\*\*.
 
 #### Q112. Given the image below, what happens if you type "P" in cell A6?
 
-![Image](images/picture39.png)
+![Image](microsoft_excel_39.png)
 
 - [ ] The word "Perez" appears and immediately the active cell moves down.
 - [x] The word "Perez" appears and the active cell remains in Edit mode.
@@ -983,7 +983,7 @@ Alignment** tab, click**\_\*\*.
 
 #### Q117. In cell C2, how would you limit the user to choosing one of the company's five regions(East, Central, North, South, West)?
 
-![Image](images/picture40.png)
+![Image](microsoft_excel_40.png)
 
 - [ ] Use reference tabs to create a drop-down list
 - [ ] Use a PivotTable slicer to create a drop-down list
@@ -992,7 +992,7 @@ Alignment** tab, click**\_\*\*.
 
 #### Q118. To calculate gross pay, hours are multiplied by the hourly rate. What formula would you put in cell C4 to then able to copy that cell down to the rest of the column
 
-![Image](images/picture41.png)
+![Image](microsoft_excel_41.png)
 
 - [ ] `=B1*$B$4`
 - [ ] `=$B1*B4`
@@ -1001,7 +1001,7 @@ Alignment** tab, click**\_\*\*.
 
 #### Q119. What do blue row numbers indicate?
 
-![Image](images/picture42.png)
+![Image](microsoft_excel_42.png)
 
 - [ ] The cells are selected/highlighted
 - [ ] Excel's options have been changed
@@ -1012,7 +1012,7 @@ Alignment** tab, click**\_\*\*.
 
 #### Q120. Based on the data in columns D,G,H, and K below, what formula will calculate the average compensation for full-time employees who have a job rating of 5?
 
-![Image](images/picture43.jpg)
+![Image](microsoft_excel_43.jpg)
 
 - [ ] `=AVERAGEIF(D:D,K2,H:H,5,G:G)`
 - [ ] `=AVERAGEIF(G:G,D:D,K2,H:H,5)`
@@ -1035,7 +1035,7 @@ Alignment** tab, click**\_\*\*.
 
 #### Q123. You want to remove the unprintable characters and unnecessary spaces from column A. What formula would you put into cell B2 to copy down to the rest of the column?
 
-![Image](images/picture44.png)
+![Image](microsoft_excel_44.png)
 
 - [ ] `=ERROR.TYPE(A2)`
 - [x] `=CLEAN(TRIM(A2))`
@@ -1051,7 +1051,7 @@ Alignment** tab, click**\_\*\*.
 
 #### Q125. The amount of sales tax on each sale is calculated as the selling price times the quantity sold times the sales tax rate. What formula would you use in celle E4 to then be able ro copy that cell to the rest of the column?
 
-![Image](images/picture45.png)
+![Image](microsoft_excel_45.png)
 
 - [x] =`C4*D4*$B$1`
 - [ ] =`(C4*D4)*B1`
@@ -1166,7 +1166,7 @@ Alignment** tab, click**\_\*\*.
 
 #### Q140. Which formula could _not_ have been entered in cell C5?
 
-![Image](images/picture46.png)
+![Image](microsoft_excel_46.png)
 
 - [x] `=SUBTOTAL(9, C2:C4)`
 - [ ] `=C2+C3+C4`
@@ -1175,7 +1175,7 @@ Alignment** tab, click**\_\*\*.
 
 #### Q141. The last two digits of the Representative ID Number is the Office ID. Which function, when entered into cell B2 and then dragged to cell B6, returns the Office ID for each representative?
 
-![Image](images/picture47.jpeg)
+![Image](microsoft_excel_47.jpeg)
 
 - [ ] `=TRIM(A2,2)`
 - [ ] `=LEFT(A2,2)`
@@ -1184,7 +1184,7 @@ Alignment** tab, click**\_\*\*.
 
 #### Q142. What is the fastest way to see the data in column E
 
-![Image](images/picture48.png)
+![Image](microsoft_excel_48.png)
 
 - [x] Double-click between column headers E and F
 - [ ] Double-click between column headers F and G
@@ -1193,7 +1193,7 @@ Alignment** tab, click**\_\*\*.
 
 #### Q143. Excel's default view contains the Quick Access Toolbar and the ribbon. Which can you customize?
 
-![QAT and Ribbon](images/picture49.png)
+![QAT and Ribbon](microsoft_excel_49.png)
 
 - [ ] You cannot customize either.
 - [ ] only the ribbon
@@ -1230,7 +1230,7 @@ Alignment** tab, click**\_\*\*.
 
 #### Q148. What feature can you use to populate B2:B7 with the number from each sectence in A2:A7?
 
-![Image](images/picture50.png)
+![Image](microsoft_excel_50.png)
 
 - [ ] No Excel feature can accomplish this; this is possible only using formulas.
 - [x] Flash Fill
@@ -1276,7 +1276,7 @@ Alignment** tab, click**\_\*\*.
 
 #### Q154. What feature allow you to make the text appear as it does in cell B1:F1?
 
-![Image](images/picture51.png)
+![Image](microsoft_excel_51.png)
 
 - [ ] cell border
 - [ ] merge cells
@@ -1285,7 +1285,7 @@ Alignment** tab, click**\_\*\*.
 
 #### Q155. What type of chart is this?
 
-![Image](images/picture52.png)
+![Image](microsoft_excel_52.png)
 
 - [x] histogram
 - [ ] waterfall
@@ -1294,7 +1294,7 @@ Alignment** tab, click**\_\*\*.
 
 #### Q156. What type of chart is this?
 
-![Image](images/picture53.png)
+![Image](microsoft_excel_53.png)
 
 - [ ] histogram
 - [x] waterfall
@@ -1310,7 +1310,7 @@ Alignment** tab, click**\_\*\*.
 
 #### Q158. Given the source data, how do you transform the middle PivotTable to appear like the rightmost PivotTable?
 
-![Image](images/picture54.png)
+![Image](microsoft_excel_54.png)
 
 - [ ] `&shy;`
 - [ ] `&shy;`

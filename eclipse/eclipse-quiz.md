@@ -30,7 +30,7 @@
 
 #### Q5. In this image, what does the circled button do?
 
-![image Q5](images/picture1.jpg)
+![image Q5](eclipse_01.jpg)
 
 - [ ] It expands the comparison between the two files to include whitespace.
 - [ ] It allows you to delete the line of code to which it is connected.
@@ -67,7 +67,7 @@
 
 #### Q10. In this image, what does the circled icon in the Problems view do?
 
-![image Q10](images/picture2.jpg)
+![image Q10](eclipse_02.jpg)
 
 - [ ] It sends the currently selected problem to another view.
 - [ ] It indents the currently selected problem.
@@ -197,7 +197,7 @@
 
 #### Q28. In the image below, what does the circled button do?
 
-![image Q28](images/picture3.jpg)
+![image Q28](eclipse_03.jpg)
 
 - [x] It links the Editor and Navigator, causing the Editor to switch to the file selected in the Package Explorer and vice versa.
 - [ ] It expands Libraries when you are in the Java perspective.
@@ -311,7 +311,7 @@
 
 #### Q44. In this image, what does the circled button do?
 
-![image Q44](images/picture4.png)
+![image Q44](eclipse_04.png)
 
 - [ ] It toggles collapsing and expanding all methods in a file.
 - [x] It toggles block selection mode in the editor.

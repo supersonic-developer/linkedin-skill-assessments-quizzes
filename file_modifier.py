@@ -29,6 +29,37 @@ class FileModifier:
                 subdirs.append(subdir_path)
         return subdirs
 
+    def find_refstyle_refs(self):
+        ref_pattern = r'\[.*?\]:\s*(.*)'
+        ref_pattern_wrong = r'\[.*?\]:\s*\((.*?)\)'
+        ref_pattern_wrong2 = r'\[.*?\]:\((.*?)\)'
+        ref_pattern_wrong3 = r'\[.*?\](.*)'
+        for sub_dir in self.sub_dirs:
+            for md_file in os.listdir(sub_dir):
+                # Select only markdown files
+                if md_file.endswith('.md'):
+                    md_file_path = os.path.join(sub_dir, md_file)
+
+                    # Read the content of the markdown file
+                    with open(md_file_path, 'r', encoding='utf-8') as file:
+                        content = file.read()
+                    ref_links = re.findall(ref_pattern, content)
+                    ref_links_wrong = re.findall(ref_pattern_wrong, content)
+                    ref_links_wrong2 = re.findall(ref_pattern_wrong2, content)
+                    ref_links_wrong3 = re.findall(ref_pattern_wrong3, content)
+                    for ref_link in ref_links:
+                        if ref_link.startswith('http'):
+                            print(f"{md_file}: Reference style ref link found {ref_link}")
+                    for ref_link in ref_links_wrong:
+                        if ref_link.startswith('http'):
+                            print(f"{md_file}: Wrong ref link found {ref_link}")
+                    for ref_link in ref_links_wrong2:
+                        if ref_link.startswith('http'):
+                            print(f"{md_file}: Wrong ref link found {ref_link}")
+                    for ref_link in ref_links_wrong3:
+                        if ref_link.startswith('http'):
+                            print(f"{md_file}: Wrong ref link found {ref_link}")
+
     def rename_images_and_update_references(self):
         # Regular expression pattern for image references
         pattern = r'!\[.*?\]\((.*?)\)'
@@ -48,7 +79,7 @@ class FileModifier:
                     image_refs = list(dict.fromkeys(image_refs))
                     image_cnt = 0
 
-                    for i, image_ref in enumerate(image_refs):
+                    for image_ref in enumerate(image_refs):
                         # Check if the image reference refers to a local file
                         image_sub_path = image_ref.split('?')[0]
 

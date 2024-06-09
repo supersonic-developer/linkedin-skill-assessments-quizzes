@@ -922,7 +922,7 @@ public string? nickname
 - [ ] Class()
 - [ ] Display()
 
-[Reference]: https://www.gkseries.com/c-sharp-programming/multiple-choice-questions-and-answers
+[Reference](https://www.gkseries.com/c-sharp-programming/multiple-choice-questions-and-answers)
 
 #### Q89 In C# 'using' is a?
 
@@ -931,4 +931,4 @@ public string? nickname
 - [ ] Function
 - [ ] Keyword
 
-[Reference]: https://www.gkseries.com/c-sharp-programming/multiple-choice-questions-and-answers
+[Reference](https://www.gkseries.com/c-sharp-programming/multiple-choice-questions-and-answers)

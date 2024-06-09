@@ -2328,7 +2328,7 @@ auto x = 4000.22;
 - [ ] double
 - [ ] float
 
-[Reference]: https://stackoverflow.com/questions/1608318/is-bool-a-native-c-type
+[Reference](https://stackoverflow.com/questions/1608318/is-bool-a-native-c-type)
 
 #### Q141. Identify the correct syntax for declaring arrays in C++.
 
@@ -2337,7 +2337,7 @@ auto x = 4000.22;
 - [ ] array{10}
 - [ ] int arr
 
-[Reference]: (https://en.cppreference.com/w/cpp/language/array)
+[Reference](https://en.cppreference.com/w/cpp/language/array)
 
 #### Q142.Size of wchat_t is.
 
@@ -2389,7 +2389,7 @@ for(int i=0;i<n;i++){
 - [ ] O(n)
 - [ ] O(1)
 
-[Reference]: https://medium.com/enjoy-algorithm/analysis-of-loop-in-programming-cc9a644ef8cd#:~:text=At%20each%20step%20of%20the%20iteration%2C%20the%20nested%20loop%20is,%20%3D%20O(n%C2%B2).
+[Reference](https://medium.com/enjoy-algorithm/analysis-of-loop-in-programming-cc9a644ef8cd#:~:text=At%20each%20step%20of%20the%20iteration%2C%20the%20nested%20loop%20is,%20%3D%20O(n%C2%B2))
 
 #### Q148.What is the output of the code given below?
 
@@ -2421,7 +2421,7 @@ Both **++a** and **a++** increase the value of a by 1 (ie: 11) and hence k+m bec
 - [x] Terminate the loop
 - [ ] Return a value
 
-[Reference]: (https://www.tutorialspoint.com/cprogramming/c_break_statement.htm)
+[Reference](https://www.tutorialspoint.com/cprogramming/c_break_statement.htm)
 
 #### Q151. In C++, what is the purpose of the `const` keyword when used with a variable?
 
@@ -2437,7 +2437,7 @@ Both **++a** and **a++** increase the value of a by 1 (ie: 11) and hence k+m bec
 - [ ] Call by pointer
 - [ ] Call by object
 
-[Reference]: (https://www.algbly.com/More/MCQs/Cpp-mcq/Cpp-functions.html)
+[Reference](https://www.algbly.com/More/MCQs/Cpp-mcq/Cpp-functions.html)
 
 #### Q153. What will be the output of the following C++ program?
 

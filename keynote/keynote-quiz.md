@@ -108,7 +108,7 @@ E. Press the Down Arrow key.
 - [ ] Move In
 - [ ] Fade and Move
 
-[Reference]https://support.apple.com/en-in/guide/keynote/tanff5ae749e/mac#:~:text=A%20Magic%20Move%20is%20a,when%20you%20play%20your%20presentation.)
+[Reference](https://support.apple.com/en-in/guide/keynote/tanff5ae749e/mac#:~:text=A%20Magic%20Move%20is%20a,when%20you%20play%20your%20presentation)
 
 #### Q13. How can you invite multiple users to make edits to the same documents?
 
